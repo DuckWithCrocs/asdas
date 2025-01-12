@@ -1,0 +1,45 @@
+Config:
+  player_log_remove: 7
+  player_log_save_when_leave: false
+  new-version-reminder: true
+  save_join_leave: true
+  save_chat: true
+  save_commands: true
+  save_worldChange: true
+  save_blockBreak:
+    enabled: true
+    block_list:
+    - TNT
+    - CHEST
+    - DIAMOND_ORE
+    - EMERALD_ORE
+  save_blockPlace:
+    enabled: true
+    block_list:
+    - TNT
+    - CHEST
+  save_drops: false
+  save_playerKill_playerDeath: true
+  save_cancelled_events: false
+  save_data_permission:
+    enabled: false
+    permission: playercontrol.savedata
+  real_time_command_enabled_events:
+  - commands
+  - worldChange
+  - blockBreak
+  - blockPlace
+  - drops
+Messages:
+  log_message_general: '[%time%] %event%'
+  log_message_join: '<joined the server (IP: %ip%)>'
+  log_message_leave: <left the server>
+  log_message_chat: '<chat: %message%>'
+  log_message_commands: '<command: %command%>'
+  log_message_worldChange: '<world change: FROM (%worldFrom%) TO (%worldTo%)'
+  log_message_blockBreak: '<block break: %block% (%block_x% %block_y% %block_z% %block_world%)'
+  log_message_blockPlace: '<block place: %block% (%block_x% %block_y% %block_z% %block_world%)'
+  log_message_playerKill: '<killed: %victim%>'
+  log_message_playerDeath: '<killed by: %killer%> (Total Deaths: %statistic_deaths%)'
+  log_message_drops: '<drop: x%amount% %item%>'
+  real_time_message: '&8&o[&c&o%player%&8&o][&e&o%time%&8&o] &7&o%event%'

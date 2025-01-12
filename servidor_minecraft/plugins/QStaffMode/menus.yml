@@ -1,0 +1,329 @@
+inspect:
+  title: '&bInspect Menu'
+  contents: true
+  armor: true
+  decoration:
+    enabled: true
+    skull:
+      type: 'NULL'
+      id: Rusheer
+    id: STAINED_GLASS_PANE
+    data: 7
+    amount: 1
+    name: ''
+    lore:
+    - ''
+    glow: false
+  info:
+    enabled: true
+    skull:
+      type: 'NULL'
+      id: Rusheer
+    id: APPLE
+    data: 0
+    amount: 1
+    name: '&cInfo'
+    lore:
+    - '&cName: <name>'
+    - '&4Health: <health>'
+    - '&aFood: <food>'
+    - '&bXp: <xp>'
+    glow: false
+  gamemode:
+    enabled: true
+    skull:
+      type: 'NULL'
+      id: Rusheer
+    id: DIAMOND_SWORD
+    data: 0
+    amount: 1
+    name: '&cGamemode: <gm>'
+    lore:
+    - '&4The gamemode!'
+    glow: false
+  fly:
+    enabled: true
+    skull:
+      type: 'NULL'
+      id: Rusheer
+    id: FEATHER
+    data: 0
+    amount: 1
+    name: '&bFlying: <fly>'
+    lore:
+    - '&cGet if flying!'
+    glow: false
+  effects:
+    enabled: true
+    skull:
+      type: 'NULL'
+      id: Rusheer
+    id: GLASS_BOTTLE
+    data: 0
+    amount: 1
+    name: '&ePotion effects'
+    format: '&a<name> <level>: &7<duration>'
+    lore:
+    - '&bEffects:'
+    glow: false
+main:
+  title: '&aStaff List &eMenu'
+  size: 27
+  decoration:
+    enabled: true
+    type: full
+    skull:
+      type: 'NULL'
+      id: Rusheer
+    id: STAINED_GLASS_PANE
+    data: 7
+    amount: 1
+    name: ''
+    lore:
+    - ''
+    glow: false
+  inStaffMode:
+    enabled: true
+    skull:
+      type: 'NULL'
+      id: Rusheer
+    id: WOOD_AXE
+    data: 0
+    amount: 1
+    name: '&cAvailable Staff'
+    lore:
+    - '&eAll players in staff mode: &b(<total>)'
+    glow: false
+    slot: 11
+  withoutStaffMode:
+    enabled: true
+    skull:
+      type: 'NULL'
+      id: Rusheer
+    id: REDSTONE_BLOCK
+    data: 0
+    amount: 1
+    name: '&cStaff Playing'
+    lore:
+    - '&eAll players without staff mode: &b(<total>)'
+    glow: false
+    slot: 15
+availableStaff:
+  title: '&aAvailable Staff &eMenu'
+  size: 54
+  decoration:
+    enabled: true
+    type: frame
+    skull:
+      type: 'NULL'
+      id: Rusheer
+    id: STAINED_GLASS_PANE
+    data: 7
+    amount: 1
+    name: ''
+    lore:
+    - ''
+    glow: false
+  heads:
+    amount: 1
+    name: <player>
+    lore:
+    - <player> lore!
+    glow: false
+  nextPage:
+    skull:
+      type: 'NULL'
+      id: Rusheer
+    id: ARROW
+    data: 0
+    amount: 1
+    name: '&7Next page'
+    lore:
+    - ''
+    glow: false
+    slot: corner
+  previousPage:
+    skull:
+      type: 'NULL'
+      id: Rusheer
+    id: ARROW
+    data: 0
+    amount: 1
+    name: '&7Previous page'
+    lore:
+    - ''
+    glow: false
+    slot: corner
+  pageItem:
+    enabled: true
+    skull:
+      type: 'NULL'
+      id: Rusheer
+    id: WATCH
+    data: 0
+    amount: 1
+    name: '&4Page: <page>/<total>'
+    lore:
+    - ''
+    glow: true
+unavailableStaff:
+  title: '&aStaff Playing &eMenu'
+  size: 54
+  decoration:
+    enabled: true
+    type: frame
+    skull:
+      type: 'NULL'
+      id: Rusheer
+    id: STAINED_GLASS_PANE
+    data: 7
+    amount: 1
+    name: ''
+    lore:
+    - ''
+    glow: false
+  heads:
+    amount: 1
+    name: <player>
+    lore:
+    - <player> lore!
+    glow: false
+  nextPage:
+    skull:
+      type: 'NULL'
+      id: Rusheer
+    id: ARROW
+    data: 0
+    amount: 1
+    name: '&7Next page'
+    lore:
+    - ''
+    glow: false
+    slot: corner
+  previousPage:
+    skull:
+      type: 'NULL'
+      id: Rusheer
+    id: ARROW
+    data: 0
+    amount: 1
+    name: '&7Previous page'
+    lore:
+    - ''
+    glow: false
+    slot: corner
+  pageItem:
+    enabled: true
+    skull:
+      type: 'NULL'
+      id: Rusheer
+    id: WATCH
+    data: 0
+    amount: 1
+    name: '&4Page: <page>/<total>'
+    lore:
+    - ''
+    glow: true
+tpItemMenu:
+  title: '&aTp Menu'
+  size: 27
+  decoration:
+    enabled: true
+    type: frame
+    skull:
+      type: 'NULL'
+      id: Rusheer
+    id: STAINED_GLASS_PANE
+    data: 7
+    amount: 1
+    name: ''
+    lore:
+    - ''
+    glow: false
+  tpRandomPlayer:
+    enabled: true
+    skull:
+      type: 'NULL'
+      id: Rusheer
+    id: ENDER_PEARL
+    data: 0
+    amount: 1
+    name: '&cRandom Player'
+    lore:
+    - '&eOnline players: &b(<total>)'
+    glow: false
+    slot: 11
+  miningLayersPlayers:
+    enabled: true
+    skull:
+      type: 'NULL'
+      id: Rusheer
+    id: DIAMOND_PICKAXE
+    data: 0
+    amount: 1
+    name: '&cMining players'
+    lore:
+    - '&ePlayers in mining layers: &b(<total>)'
+    glow: false
+    slot: 15
+inMiningLayers:
+  title: '&aPlayers in mining layers.'
+  size: 54
+  decoration:
+    enabled: true
+    type: frame
+    skull:
+      type: 'NULL'
+      id: Rusheer
+    id: STAINED_GLASS_PANE
+    data: 7
+    amount: 1
+    name: ''
+    lore:
+    - ''
+    glow: false
+  heads:
+    amount: 1
+    name: <player><diff>
+    difference: '*'
+    lore:
+    - <player> lore!
+    - <location>
+    - <diamonds>, <iron>, <gold>
+    glow: false
+  nextPage:
+    skull:
+      type: 'NULL'
+      id: Rusheer
+    id: ARROW
+    data: 0
+    amount: 1
+    name: '&7Next page'
+    lore:
+    - ''
+    glow: false
+    slot: corner
+  previousPage:
+    skull:
+      type: 'NULL'
+      id: Rusheer
+    id: ARROW
+    data: 0
+    amount: 1
+    name: '&7Previous page'
+    lore:
+    - ''
+    glow: false
+    slot: corner
+  pageItem:
+    enabled: true
+    skull:
+      type: 'NULL'
+      id: Rusheer
+    id: WATCH
+    data: 0
+    amount: 1
+    name: '&4Page: <page>/<total>'
+    lore:
+    - ''
+    glow: true

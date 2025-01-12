@@ -1,0 +1,23 @@
+scoreboard: true
+frozenDisconnect: say <player> disconnected frozen!
+randomTpMultiworld: true
+navigatorImpulse: 3.0
+staffChatEnabled: true
+keepFlyingWhenDisableStaffMode: true
+autoStaffModeOnJoin: false
+autoEnableBySavedInfo: true
+dropItemsWhileFrozen: true
+moveInventoryWhileFrozen: true
+teleportToInitialPosWhenDisabling: true
+chestSoundCancel: true
+chatLock: true
+slowmode: true
+slowmodeCooldown: 3
+bcStaffMode: true
+actionbarWhenVanish: true
+creativeOnStaffmode: false
+tpMenu: true
+miningLayers: 10,11,12,13,14
+nightVision: true
+freezeHelmetChange: true
+freezeHelmetID: ICE

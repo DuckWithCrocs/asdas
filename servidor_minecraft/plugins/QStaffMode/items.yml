@@ -1,0 +1,132 @@
+items:
+  navigator:
+    enabled: true
+    skull:
+      type: 'NULL'
+      id: Rusheer
+    id: COMPASS
+    data: 0
+    amount: 1
+    name: '&aNavigator'
+    lore:
+    - Teleport to the block you are looking at
+    glow: false
+    slot: 0
+  staffList:
+    enabled: true
+    skull:
+      type: 'NULL'
+      id: Rusheer
+    id: SKULL_ITEM
+    data: 0
+    amount: 1
+    name: '&2StaffList'
+    lore:
+    - List of all staff online
+    glow: false
+    slot: 1
+  worldEdit:
+    enabled: true
+    skull:
+      type: 'NULL'
+      id: Rusheer
+    id: WOOD_AXE
+    data: 0
+    amount: 1
+    name: '&aWorldEdit &cWand'
+    lore:
+    - The WorldEdit Wand
+    glow: false
+    slot: 2
+  inspect:
+    enabled: true
+    skull:
+      type: 'NULL'
+      id: Rusheer
+    id: CHEST
+    data: 0
+    amount: 1
+    name: '&aInspect &bItem'
+    lore:
+    - Inspect player's inventory
+    glow: false
+    slot: 3
+  freeze:
+    enabled: true
+    skull:
+      type: 'NULL'
+      id: Rusheer
+    id: ICE
+    data: 0
+    amount: 1
+    name: '&bFreeze'
+    lore:
+    - Freeze a player
+    glow: false
+    slot: 4
+  kbFishingRod:
+    enabled: true
+    skull:
+      type: 'NULL'
+      id: Rusheer
+    id: FISHING_ROD
+    data: 0
+    amount: 1
+    name: '&7Knockback Tester'
+    lore:
+    - Hit someone with it
+    - To check his antiknockback
+    glow: true
+    slot: 5
+  vanish:
+    enabled: true
+    skull:
+      type: 'NULL'
+      id: Rusheer
+    id: INK_SACK
+    data: 8
+    amount: 1
+    name: '&2Unvanish'
+    lore:
+    - Show to other players
+    glow: false
+    slot: 6
+  visible:
+    enabled: true
+    skull:
+      type: 'NULL'
+      id: Rusheer
+    id: INK_SACK
+    data: 10
+    amount: 1
+    name: '&2Vanish'
+    lore:
+    - Hide to other players
+    glow: false
+    slot: 6
+  fly:
+    enabled: true
+    skull:
+      type: 'NULL'
+      id: Rusheer
+    id: FEATHER
+    data: 0
+    amount: 1
+    name: '&eFly'
+    lore:
+    - '&aToggle fly'
+    glow: false
+    slot: 7
+  randomtp:
+    enabled: true
+    skull:
+      type: 'NULL'
+      id: Rusheer
+    id: EYE_OF_ENDER
+    data: 0
+    amount: 1
+    name: '&4Random &aTeleport'
+    lore:
+    - Teleport to a random player
+    glow: false
+    slot: 8

@@ -1,103 +1,85 @@
-[05:10:58] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[05:10:59] [main/INFO]: Reloading ResourceManager: Default, bukkit
-[05:10:59] [Worker-Main-2/INFO]: Loaded 7 recipes
-[05:11:00] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[05:11:00] [Server thread/INFO]: Loading properties
-[05:11:00] [Server thread/INFO]: This server is running Paper version git-Paper-794 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
-[05:11:00] [Server thread/INFO]: Debug logging is disabled
-[05:11:00] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[05:11:00] [Server thread/INFO]: Using 4 threads for Netty based IO
-[05:11:00] [Server thread/INFO]: Default game type: SURVIVAL
-[05:11:00] [Server thread/INFO]: Generating keypair
-[05:11:01] [Server thread/INFO]: Starting Minecraft server on *:25565
-[05:11:01] [Server thread/INFO]: Using epoll channel type
-[05:11:01] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
-[05:11:05] [Server thread/WARN]: Legacy plugin PingPlayer v1.3.3 does not specify an api-version.
-[05:11:05] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.4.152
-[05:11:05] [Server thread/INFO]: [PingPlayer] Loading PingPlayer v1.3.3
-[05:11:05] [Server thread/INFO]: [NametagEdit] Loading NametagEdit v4.5.23
-[05:11:05] [Server thread/INFO]: [LoginSecurity] Loading LoginSecurity v3.3.0
-[05:11:05] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[05:11:05] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.152
-[05:11:06] [Server thread/INFO]:         __    
-[05:11:06] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.152
-[05:11:06] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[05:11:06] [Server thread/INFO]: 
-[05:11:06] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[05:11:06] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[05:11:06] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[05:11:06] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[05:11:07] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1385ms)
-[05:11:07] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[05:11:07] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[05:11:07] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[05:11:07] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[05:11:07] [Server thread/INFO]: Preparing level "world"
-[05:11:07] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[05:11:08] [Server thread/INFO]: Preparing spawn area: 0%
-[05:11:08] [Server thread/INFO]: Preparing spawn area: 0%
-[05:11:08] [Server thread/INFO]: Time elapsed: 970 ms
-[05:11:08] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[05:11:08] [Server thread/INFO]: Preparing spawn area: 0%
-[05:11:08] [Server thread/INFO]: Preparing spawn area: 32%
-[05:11:09] [Worker-Main-2/INFO]: Preparing spawn area: 100%
-[05:11:09] [Server thread/INFO]: Time elapsed: 1186 ms
-[05:11:09] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[05:11:09] [Server thread/INFO]: Preparing spawn area: 0%
-[05:11:09] [Server thread/INFO]: Time elapsed: 320 ms
-[05:11:09] [Server thread/INFO]: [PingPlayer] Enabling PingPlayer v1.3.3*
-[05:11:10] [Server thread/INFO]: [PingPlayer] Detected Minecraft version 1.16+, using new ping method.
-[05:11:10] [Server thread/INFO]: [PingPlayer] PingPlayer v1.3.3 enabled.
-[05:11:10] [Server thread/INFO]: [NametagEdit] Enabling NametagEdit v4.5.23
-[05:11:10] [Server thread/INFO]: [NametagEdit] Successfully loaded using bukkit version: v1_16_R3
-[05:11:10] [Server thread/INFO]: [NametagEdit] Found LuckPerms! Hooking in.
-[05:11:10] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.3.0
-[05:11:10] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
-[05:11:10] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
-[05:11:10] [Server thread/INFO]: [LoginSecurity] Registering commands...
-[05:11:10] [Server thread/INFO]: [LoginSecurity] Registering listeners...
-[05:11:10] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
-[05:11:10] [Server thread/INFO]: Running delayed init tasks
-[05:11:10] [Server thread/INFO]: Done (9.889s)! For help, type "help"
-[05:11:10] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
-[05:11:10] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * WARNING - YOU ARE RUNNING AN OUTDATED VERSION OF JAVA.
-[05:11:10] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * PAPER WILL STOP BEING COMPATIBLE WITH THIS VERSION OF
-[05:11:10] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * JAVA WHEN MINECRAFT 1.17 IS RELEASED.
-[05:11:10] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
-[05:11:10] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Please update the version of Java you use to run Paper
-[05:11:10] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * to at least Java 16. When Paper for Minecraft 1.17 is
-[05:11:10] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * released support for versions of Java before 16 will
-[05:11:10] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * be dropped.
-[05:11:10] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
-[05:11:10] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Current Java version: 11.0.25
-[05:11:10] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
-[05:11:10] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Check this forum post for more information: 
-[05:11:10] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *   https://papermc.io/java16
-[05:11:10] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
-[05:11:10] [Server thread/INFO]: Timings Reset
-[05:15:11] [Server thread/INFO]: Stopping the server
-[05:15:11] [Server thread/INFO]: Stopping server
-[05:15:11] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.3.0
-[05:15:11] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
-[05:15:11] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
-[05:15:11] [Server thread/INFO]: [NametagEdit] Disabling NametagEdit v4.5.23
-[05:15:11] [Server thread/INFO]: [PingPlayer] Disabling PingPlayer v1.3.3
-[05:15:11] [Server thread/INFO]: [PingPlayer] PingPlayer v1.3.3 disabled.
-[05:15:11] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.152
-[05:15:11] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
-[05:15:11] [Server thread/INFO]: [LuckPerms] Closing storage...
-[05:15:11] [Server thread/INFO]: [LuckPerms] Goodbye!
-[05:15:11] [Server thread/INFO]: Saving players
-[05:15:11] [Server thread/INFO]: Saving worlds
-[05:15:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[05:15:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[05:15:12] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[05:15:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[05:15:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[05:15:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[05:15:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[05:15:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[05:15:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[05:15:13] [Server thread/INFO]: Flushing Chunk IO
-[05:15:13] [Server thread/INFO]: Closing Thread Pool
-[05:15:13] [Server thread/INFO]: Closing Server
+[16:18:08] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[16:18:09] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[16:18:09] [Worker-Main-2/INFO]: Loaded 7 recipes
+[16:18:10] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[16:18:10] [Server thread/INFO]: Loading properties
+[16:18:10] [Server thread/INFO]: This server is running Paper version git-Paper-794 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
+[16:18:10] [Server thread/INFO]: Debug logging is disabled
+[16:18:10] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[16:18:10] [Server thread/INFO]: Using 4 threads for Netty based IO
+[16:18:10] [Server thread/INFO]: Default game type: SURVIVAL
+[16:18:10] [Server thread/INFO]: Generating keypair
+[16:18:11] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:18:11] [Server thread/INFO]: Using epoll channel type
+[16:18:11] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[16:18:14] [Server thread/WARN]: Legacy plugin PingPlayer v1.3.3 does not specify an api-version.
+[16:18:14] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.4.152
+[16:18:14] [Server thread/INFO]: [PingPlayer] Loading PingPlayer v1.3.3
+[16:18:14] [Server thread/INFO]: [LoginSecurity] Loading LoginSecurity v3.3.0
+[16:18:14] [Server thread/INFO]: [PlaceholderAPI] Loading PlaceholderAPI v2.11.6
+[16:18:14] [Server thread/INFO]: [QStaffMode] Loading QStaffMode v1.3.6
+[16:18:14] [Server thread/INFO]: [NametagEdit] Loading NametagEdit v4.5.23
+[16:18:14] [Server thread/INFO]: [PlayerControl] Loading PlayerControl v1.7.4
+[16:18:14] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[16:18:14] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.152
+[16:18:14] [Server thread/INFO]:         __    
+[16:18:14] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.152
+[16:18:14] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[16:18:14] [Server thread/INFO]: 
+[16:18:14] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[16:18:15] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[16:18:15] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[16:18:15] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[16:18:15] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1154ms)
+[16:18:15] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:18:15] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:18:15] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:18:15] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:18:15] [Server thread/INFO]: Preparing level "world"
+[16:18:15] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:18:16] [Server thread/INFO]: Preparing spawn area: 0%
+[16:18:16] [Server thread/INFO]: Time elapsed: 480 ms
+[16:18:16] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[16:18:16] [Server thread/INFO]: Time elapsed: 353 ms
+[16:18:16] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[16:18:16] [Server thread/INFO]: Time elapsed: 228 ms
+[16:18:16] [Server thread/INFO]: [PingPlayer] Enabling PingPlayer v1.3.3*
+[16:18:17] [Server thread/INFO]: [PingPlayer] Detected Minecraft version 1.16+, using new ping method.
+[16:18:17] [Server thread/INFO]: [PingPlayer] PingPlayer v1.3.3 enabled.
+[16:18:17] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.3.0
+[16:18:17] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
+[16:18:17] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
+[16:18:17] [Server thread/INFO]: [LoginSecurity] Registering commands...
+[16:18:17] [Server thread/INFO]: [LoginSecurity] Registering listeners...
+[16:18:17] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
+[16:18:17] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
+[16:18:17] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[16:18:17] [Server thread/INFO]: [QStaffMode] Enabling QStaffMode v1.3.6
+[16:18:17] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: qstaffmode [1.0]
+[16:18:17] [Server thread/INFO]: QStaffMode 1.3.6 enabled
+[16:18:17] [Server thread/INFO]: [NametagEdit] Enabling NametagEdit v4.5.23
+[16:18:17] [Server thread/INFO]: [NametagEdit] Successfully loaded using bukkit version: v1_16_R3
+[16:18:17] [Server thread/INFO]: [NametagEdit] Found LuckPerms! Hooking in.
+[16:18:17] [Server thread/INFO]: [PlayerControl] Enabling PlayerControl v1.7.4
+[16:18:17] [Server thread/INFO]: [PlayerControl] Has been enabled! Version: 1.7.4
+[16:18:17] [Server thread/INFO]: [PlayerControl] Thanks for using my plugin!  ~Ajneb97
+[16:18:18] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[16:18:18] [Server thread/INFO]: 0 placeholder hook(s) registered!
+[16:18:18] [Server thread/INFO]: Running delayed init tasks
+[16:18:18] [Server thread/INFO]: Done (7.568s)! For help, type "help"
+[16:18:18] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
+[16:18:18] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * WARNING - YOU ARE RUNNING AN OUTDATED VERSION OF JAVA.
+[16:18:18] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * PAPER WILL STOP BEING COMPATIBLE WITH THIS VERSION OF
+[16:18:18] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * JAVA WHEN MINECRAFT 1.17 IS RELEASED.
+[16:18:18] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[16:18:18] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Please update the version of Java you use to run Paper
+[16:18:18] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * to at least Java 16. When Paper for Minecraft 1.17 is
+[16:18:18] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * released support for versions of Java before 16 will
+[16:18:18] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * be dropped.
+[16:18:18] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[16:18:18] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Current Java version: 11.0.25
+[16:18:18] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[16:18:18] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Check this forum post for more information: 
+[16:18:18] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *   https://papermc.io/java16
+[16:18:18] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
+[16:18:18] [Server thread/INFO]: Timings Reset
