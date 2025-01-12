@@ -1,193 +1,143 @@
-[19:19:03] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[19:19:03] [main/INFO]: Reloading ResourceManager: Default, bukkit
-[19:19:04] [Worker-Main-1/INFO]: Loaded 7 recipes
-[19:19:04] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[19:19:04] [Server thread/INFO]: Loading properties
-[19:19:04] [Server thread/INFO]: This server is running Paper version git-Paper-794 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
-[19:19:05] [Server thread/INFO]: Debug logging is disabled
-[19:19:05] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[19:19:05] [Server thread/INFO]: Using 4 threads for Netty based IO
-[19:19:05] [Server thread/INFO]: Default game type: SURVIVAL
-[19:19:05] [Server thread/INFO]: Generating keypair
-[19:19:05] [Server thread/INFO]: Starting Minecraft server on *:25565
-[19:19:05] [Server thread/INFO]: Using epoll channel type
-[19:19:05] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
-[19:19:09] [Server thread/WARN]: Legacy plugin PingPlayer v1.3.3 does not specify an api-version.
-[19:19:09] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.4.152
-[19:19:09] [Server thread/INFO]: [PingPlayer] Loading PingPlayer v1.3.3
-[19:19:09] [Server thread/INFO]: [LoginSecurity] Loading LoginSecurity v3.3.0
-[19:19:09] [Server thread/INFO]: [PlaceholderAPI] Loading PlaceholderAPI v2.11.6
-[19:19:09] [Server thread/INFO]: [QStaffMode] Loading QStaffMode v1.3.6
-[19:19:09] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v15.5.1
-[19:19:09] [Server thread/INFO]: [NametagEdit] Loading NametagEdit v4.5.23
-[19:19:09] [Server thread/INFO]: [PlayerControl] Loading PlayerControl v1.7.4
-[19:19:09] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[19:19:09] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.152
-[19:19:09] [Server thread/INFO]:         __    
-[19:19:09] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.152
-[19:19:09] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[19:19:09] [Server thread/INFO]: 
-[19:19:09] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[19:19:10] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[19:19:10] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[19:19:10] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[19:19:10] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1355ms)
-[19:19:10] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.1
-[19:19:11] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1mYou must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.[0;39m
-[19:19:11] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.16.5[32;1m.[0;39m
-[19:19:11] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mUsing paper join listener![0;39m
-[19:19:11] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: skinsrestorer [15.5.1]
-[19:19:11] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mPlaceholderAPI expansion registered![0;39m
-[19:19:11] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mYou are running an outdated Java version, please update it to at least Java 21 (your version is 11).[0;39m
-[19:19:11] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mSkinsRestorer no longer officially supports this version of Java, you are currently using an unsupported compatibility build.[0;39m
-[19:19:11] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mYou can still use the plugin, but you may encounter issues that are not present in newer versions of Java.[0;39m
-[19:19:11] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[19:19:11] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[19:19:11] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[19:19:11] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[19:19:11] [Server thread/INFO]: Preparing level "world"
-[19:19:11] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[19:19:12] [Server thread/INFO]: Preparing spawn area: 0%
-[19:19:12] [Server thread/INFO]: Preparing spawn area: 0%
-[19:19:12] [Server thread/INFO]: Preparing spawn area: 28%
-[19:19:12] [Server thread/INFO]: Time elapsed: 1016 ms
-[19:19:12] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[19:19:12] [Server thread/INFO]: Preparing spawn area: 0%
-[19:19:13] [Server thread/INFO]: Time elapsed: 412 ms
-[19:19:13] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[19:19:13] [Server thread/INFO]: Preparing spawn area: 0%
-[19:19:13] [Server thread/INFO]: Time elapsed: 275 ms
-[19:19:13] [Server thread/INFO]: [PingPlayer] Enabling PingPlayer v1.3.3*
-[19:19:13] [Server thread/INFO]: [PingPlayer] Detected Minecraft version 1.16+, using new ping method.
-[19:19:13] [Server thread/INFO]: [PingPlayer] PingPlayer v1.3.3 enabled.
-[19:19:13] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.3.0
-[19:19:13] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
-[19:19:13] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
-[19:19:13] [Server thread/INFO]: [LoginSecurity] Registering commands...
-[19:19:13] [Server thread/INFO]: [LoginSecurity] Registering listeners...
-[19:19:13] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
-[19:19:13] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
-[19:19:13] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
-[19:19:13] [Server thread/INFO]: [QStaffMode] Enabling QStaffMode v1.3.6
-[19:19:14] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: qstaffmode [1.0]
-[19:19:14] [Server thread/INFO]: QStaffMode 1.3.6 enabled
-[19:19:14] [Server thread/INFO]: [NametagEdit] Enabling NametagEdit v4.5.23
-[19:19:14] [Server thread/INFO]: [NametagEdit] Successfully loaded using bukkit version: v1_16_R3
-[19:19:14] [Server thread/INFO]: [NametagEdit] Found LuckPerms! Hooking in.
-[19:19:14] [Server thread/INFO]: [PlayerControl] Enabling PlayerControl v1.7.4
-[19:19:14] [Server thread/INFO]: [PlayerControl] Has been enabled! Version: 1.7.4
-[19:19:14] [Server thread/INFO]: [PlayerControl] Thanks for using my plugin!  ~Ajneb97
-[19:19:14] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
-[19:19:14] [Server thread/INFO]: 0 placeholder hook(s) registered!
-[19:19:14] [Server thread/INFO]: Running delayed init tasks
-[19:19:14] [Server thread/INFO]: Done (9.469s)! For help, type "help"
-[19:19:14] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
-[19:19:14] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * WARNING - YOU ARE RUNNING AN OUTDATED VERSION OF JAVA.
-[19:19:14] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * PAPER WILL STOP BEING COMPATIBLE WITH THIS VERSION OF
-[19:19:14] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * JAVA WHEN MINECRAFT 1.17 IS RELEASED.
-[19:19:14] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
-[19:19:14] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Please update the version of Java you use to run Paper
-[19:19:14] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * to at least Java 16. When Paper for Minecraft 1.17 is
-[19:19:14] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * released support for versions of Java before 16 will
-[19:19:14] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * be dropped.
-[19:19:14] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
-[19:19:14] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Current Java version: 11.0.25
-[19:19:14] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
-[19:19:14] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Check this forum post for more information: 
-[19:19:14] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *   https://papermc.io/java16
-[19:19:14] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
-[19:19:14] [Server thread/INFO]: Timings Reset
-[19:19:14] [Craft Scheduler Thread - 3/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
-[19:19:14] [Craft Scheduler Thread - 3/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
-[19:19:14] [Craft Scheduler Thread - 3/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
-[19:19:14] [Craft Scheduler Thread - 3/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m
-[19:19:14] [Craft Scheduler Thread - 3/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m
-[19:19:14] [Craft Scheduler Thread - 3/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
-[19:19:14] [Craft Scheduler Thread - 3/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
-[19:19:14] [Craft Scheduler Thread - 3/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.5.1[0;39m
-[19:19:14] [Craft Scheduler Thread - 3/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1md5d8613[0;39m
-[19:19:14] [Craft Scheduler Thread - 3/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m
-[19:19:14] [Craft Scheduler Thread - 3/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
-[19:19:14] [Craft Scheduler Thread - 3/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mDo you have issues? Read our troubleshooting guide: [33;1mhttps://skinsrestorer.net/docs/troubleshooting[0;39m
-[19:19:14] [Craft Scheduler Thread - 3/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer? Consider donating: [33;1mhttps://skinsrestorer.net/donate[0;39m
-[19:19:42] [User Authenticator #1/INFO]: UUID of player Pato_con_flow is 9cbff30d-e6f3-3a59-9267-baae0b1b89cc
-[19:19:42] [Server thread/INFO]: Pato_con_flow joined the game
-[19:19:42] [Server thread/INFO]: Pato_con_flow[/127.67.59.64:39925] logged in with entity id 290 at ([world]44.70629896076774, 68.0, 190.62047442141647)
-[19:20:04] [User Authenticator #1/INFO]: UUID of player CAMEXS is 6a5aa9b0-9db8-3f65-ac39-9269c9e59fb3
-[19:20:04] [Server thread/INFO]: CAMEXS joined the game
-[19:20:04] [Server thread/INFO]: CAMEXS[/127.74.163.155:33181] logged in with entity id 339 at ([world]11.5, 64.0, 193.5)
-[19:20:54] [Server thread/INFO]: Pato_con_flow issued server command: /lp user CAMEXS parent set admin
-[19:20:54] [luckperms-command-executor/INFO]: [LP] LOG > (Pato_con_flow) [U] (camexs)
-[19:20:54] [luckperms-command-executor/INFO]: [LP] LOG > parent set admin
-[19:21:01] [Server thread/INFO]: Pato_con_flow issued server command: /weather clear
-[19:21:01] [Server thread/INFO]: [Pato_con_flow: Set the weather to clear]
-[19:21:02] [Async Chat Thread - #0/INFO]: <CAMEXS> howa
-[19:21:11] [Async Chat Thread - #0/INFO]: <Pato_con_flow> oa
-[19:21:17] [Async Chat Thread - #0/INFO]: <Pato_con_flow> como le va el mc
-[19:21:33] [Server thread/INFO]: Pato_con_flow issued server command: /fly
-[19:21:36] [Async Chat Thread - #0/INFO]: <CAMEXS> pere
-[19:21:52] [Server thread/INFO]: Pato_con_flow issued server command: /tp CAMEXS
-[19:21:52] [Server thread/INFO]: [Pato_con_flow: Teleported Pato_con_flow to CAMEXS]
-[19:22:02] [Server thread/INFO]: Pato_con_flow issued server command: /staff
-[19:22:06] [Async Chat Thread - #0/INFO]: <CAMEXS> :c
-[19:22:34] [Server thread/INFO]: Pato_con_flow issued server command: /staf
-[19:22:36] [Server thread/INFO]: Pato_con_flow issued server command: /staff
-[19:22:51] [Server thread/INFO]: Pato_con_flow issued server command: /vanish
-[19:22:53] [Server thread/INFO]: Pato_con_flow issued server command: /vanish
-[19:23:08] [Async Chat Thread - #1/INFO]: <Pato_con_flow> ole como le va mc
-[19:23:19] [Async Chat Thread - #1/INFO]: <CAMEXS> me va mal
-[19:23:30] [Async Chat Thread - #1/INFO]: <Pato_con_flow> um
-[19:23:46] [Async Chat Thread - #1/INFO]: <CAMEXS> pero no es el compiu
-[19:24:06] [Async Chat Thread - #1/INFO]: <CAMEXS> es maicra
-[19:24:14] [Server thread/INFO]: CAMEXS issued server command: /es c
-[19:24:17] [Async Chat Thread - #1/INFO]: <Pato_con_flow> no sera que le falta ram?
-[19:24:28] [Async Chat Thread - #1/INFO]: <CAMEXS> es como si le estuviera travado
-[19:24:36] [Async Chat Thread - #1/INFO]: <Pato_con_flow> tan raro
-[19:24:37] [Async Chat Thread - #1/INFO]: <CAMEXS> no nada ver
-[19:24:39] [Async Chat Thread - #1/INFO]: <Pato_con_flow> anda con obs?
-[19:24:46] [Async Chat Thread - #1/INFO]: <CAMEXS> antes me abia pasado
-[19:25:00] [Server thread/INFO]: Pato_con_flow issued server command: /ping camexs
-[19:25:03] [Server thread/INFO]: Pato_con_flow issued server command: /ping
-[19:25:07] [Server thread/INFO]: Pato_con_flow issued server command: /ping camexs
-[19:25:07] [Async Chat Thread - #1/INFO]: <CAMEXS> pero elimino todo y vulvo y lo instalo
-[19:25:08] [Server thread/INFO]: Pato_con_flow issued server command: /ping camexs
-[19:25:27] [Server thread/INFO]: Pato_con_flow issued server command: /gamemode survival
-[19:25:32] [Server thread/INFO]: CAMEXS lost connection: Disconnected
-[19:25:32] [Server thread/INFO]: CAMEXS left the game
-[19:25:44] [Server thread/INFO]: Pato_con_flow issued server command: /kill
-[19:25:44] [Server thread/INFO]: Pato_con_flow fell out of the world
-[19:25:44] [Server thread/INFO]: [Pato_con_flow: Killed Pato_con_flow]
-[19:25:52] [Server thread/INFO]: Pato_con_flow issued server command: /stop
-[19:25:52] [Server thread/INFO]: [Pato_con_flow: Stopping the server]
-[19:25:52] [Server thread/INFO]: Stopping server
-[19:25:52] [Server thread/INFO]: [PlayerControl] Disabling PlayerControl v1.7.4
-[19:25:52] [Server thread/INFO]: [PlayerControl] Has been disabled! Version: 1.7.4
-[19:25:52] [Server thread/INFO]: [NametagEdit] Disabling NametagEdit v4.5.23
-[19:25:52] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.1
-[19:25:52] [Server thread/INFO]: [QStaffMode] Disabling QStaffMode v1.3.6
-[19:25:52] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
-[19:25:52] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.3.0
-[19:25:52] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
-[19:25:52] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
-[19:25:52] [Server thread/INFO]: [PingPlayer] Disabling PingPlayer v1.3.3
-[19:25:52] [Server thread/INFO]: [PingPlayer] PingPlayer v1.3.3 disabled.
-[19:25:52] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.152
-[19:25:52] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
-[19:25:52] [Server thread/INFO]: [LuckPerms] Closing storage...
-[19:25:52] [Server thread/INFO]: [LuckPerms] Goodbye!
-[19:25:52] [Server thread/INFO]: Saving players
-[19:25:52] [Server thread/INFO]: Pato_con_flow lost connection: Server closed
-[19:25:52] [Server thread/INFO]: Pato_con_flow left the game
-[19:25:52] [Server thread/INFO]: Saving worlds
-[19:25:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[19:25:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:25:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[19:25:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:25:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[19:25:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:25:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[19:25:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[19:25:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[19:25:53] [Server thread/INFO]: Flushing Chunk IO
-[19:25:53] [Server thread/INFO]: Closing Thread Pool
-[19:25:53] [Server thread/INFO]: Closing Server
+[19:29:13] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[19:29:14] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[19:29:14] [Worker-Main-1/INFO]: Loaded 7 recipes
+[19:29:15] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[19:29:15] [Server thread/INFO]: Loading properties
+[19:29:15] [Server thread/INFO]: This server is running Paper version git-Paper-794 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
+[19:29:15] [Server thread/INFO]: Debug logging is disabled
+[19:29:15] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[19:29:15] [Server thread/INFO]: Using 4 threads for Netty based IO
+[19:29:15] [Server thread/INFO]: Default game type: SURVIVAL
+[19:29:15] [Server thread/INFO]: Generating keypair
+[19:29:16] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:29:16] [Server thread/INFO]: Using epoll channel type
+[19:29:16] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[19:29:19] [Server thread/WARN]: Legacy plugin PingPlayer v1.3.3 does not specify an api-version.
+[19:29:19] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.4.152
+[19:29:19] [Server thread/INFO]: [PingPlayer] Loading PingPlayer v1.3.3
+[19:29:19] [Server thread/INFO]: [LoginSecurity] Loading LoginSecurity v3.3.0
+[19:29:19] [Server thread/INFO]: [PlaceholderAPI] Loading PlaceholderAPI v2.11.6
+[19:29:19] [Server thread/INFO]: [QStaffMode] Loading QStaffMode v1.3.6
+[19:29:19] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v15.5.1
+[19:29:19] [Server thread/INFO]: [NametagEdit] Loading NametagEdit v4.5.23
+[19:29:19] [Server thread/INFO]: [PlayerControl] Loading PlayerControl v1.7.4
+[19:29:19] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[19:29:19] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.152
+[19:29:20] [Server thread/INFO]:         __    
+[19:29:20] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.152
+[19:29:20] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[19:29:20] [Server thread/INFO]: 
+[19:29:20] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[19:29:20] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[19:29:20] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[19:29:21] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[19:29:21] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1296ms)
+[19:29:21] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.1
+[19:29:21] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1mYou must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.[0;39m
+[19:29:21] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.16.5[32;1m.[0;39m
+[19:29:22] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mUsing paper join listener![0;39m
+[19:29:22] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: skinsrestorer [15.5.1]
+[19:29:22] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mPlaceholderAPI expansion registered![0;39m
+[19:29:22] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mYou are running an outdated Java version, please update it to at least Java 21 (your version is 11).[0;39m
+[19:29:22] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mSkinsRestorer no longer officially supports this version of Java, you are currently using an unsupported compatibility build.[0;39m
+[19:29:22] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mYou can still use the plugin, but you may encounter issues that are not present in newer versions of Java.[0;39m
+[19:29:22] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:29:22] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:29:22] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:29:22] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:29:22] [Server thread/INFO]: Preparing level "world"
+[19:29:22] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:29:22] [Server thread/INFO]: Preparing spawn area: 0%
+[19:29:22] [Server thread/INFO]: Preparing spawn area: 0%
+[19:29:23] [Server thread/INFO]: Time elapsed: 754 ms
+[19:29:23] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[19:29:23] [Server thread/INFO]: Preparing spawn area: 0%
+[19:29:23] [Worker-Main-1/INFO]: Preparing spawn area: 97%
+[19:29:23] [Server thread/INFO]: Time elapsed: 784 ms
+[19:29:23] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[19:29:24] [Server thread/INFO]: Preparing spawn area: 0%
+[19:29:24] [Server thread/INFO]: Time elapsed: 127 ms
+[19:29:24] [Server thread/INFO]: [PingPlayer] Enabling PingPlayer v1.3.3*
+[19:29:24] [Server thread/INFO]: [PingPlayer] Detected Minecraft version 1.16+, using new ping method.
+[19:29:24] [Server thread/INFO]: [PingPlayer] PingPlayer v1.3.3 enabled.
+[19:29:24] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.3.0
+[19:29:24] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
+[19:29:24] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
+[19:29:24] [Server thread/INFO]: [LoginSecurity] Registering commands...
+[19:29:24] [Server thread/INFO]: [LoginSecurity] Registering listeners...
+[19:29:24] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
+[19:29:24] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
+[19:29:24] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[19:29:24] [Server thread/INFO]: [QStaffMode] Enabling QStaffMode v1.3.6
+[19:29:24] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: qstaffmode [1.0]
+[19:29:24] [Server thread/INFO]: QStaffMode 1.3.6 enabled
+[19:29:24] [Server thread/INFO]: [NametagEdit] Enabling NametagEdit v4.5.23
+[19:29:24] [Server thread/INFO]: [NametagEdit] Successfully loaded using bukkit version: v1_16_R3
+[19:29:24] [Server thread/INFO]: [NametagEdit] Found LuckPerms! Hooking in.
+[19:29:24] [Server thread/INFO]: [PlayerControl] Enabling PlayerControl v1.7.4
+[19:29:24] [Server thread/INFO]: [PlayerControl] Has been enabled! Version: 1.7.4
+[19:29:24] [Server thread/INFO]: [PlayerControl] Thanks for using my plugin!  ~Ajneb97
+[19:29:24] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[19:29:24] [Server thread/INFO]: 0 placeholder hook(s) registered!
+[19:29:24] [Server thread/INFO]: Running delayed init tasks
+[19:29:24] [Server thread/INFO]: Done (9.299s)! For help, type "help"
+[19:29:24] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
+[19:29:24] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * WARNING - YOU ARE RUNNING AN OUTDATED VERSION OF JAVA.
+[19:29:24] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * PAPER WILL STOP BEING COMPATIBLE WITH THIS VERSION OF
+[19:29:24] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * JAVA WHEN MINECRAFT 1.17 IS RELEASED.
+[19:29:24] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[19:29:24] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Please update the version of Java you use to run Paper
+[19:29:24] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * to at least Java 16. When Paper for Minecraft 1.17 is
+[19:29:24] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * released support for versions of Java before 16 will
+[19:29:24] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * be dropped.
+[19:29:24] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[19:29:24] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Current Java version: 11.0.25
+[19:29:24] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[19:29:24] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Check this forum post for more information: 
+[19:29:24] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *   https://papermc.io/java16
+[19:29:24] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
+[19:29:24] [Server thread/INFO]: Timings Reset
+[19:29:25] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[19:29:25] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[19:29:25] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
+[19:29:25] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m
+[19:29:25] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m
+[19:29:25] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[19:29:25] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[19:29:25] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.5.1[0;39m
+[19:29:25] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1md5d8613[0;39m
+[19:29:25] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m
+[19:29:25] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[19:29:25] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mDo you have issues? Read our troubleshooting guide: [33;1mhttps://skinsrestorer.net/docs/troubleshooting[0;39m
+[19:29:25] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer? Consider donating: [33;1mhttps://skinsrestorer.net/donate[0;39m
+[19:30:37] [Server thread/INFO]: Stopping the server
+[19:30:37] [Server thread/INFO]: Stopping server
+[19:30:37] [Server thread/INFO]: [PlayerControl] Disabling PlayerControl v1.7.4
+[19:30:37] [Server thread/INFO]: [PlayerControl] Has been disabled! Version: 1.7.4
+[19:30:37] [Server thread/INFO]: [NametagEdit] Disabling NametagEdit v4.5.23
+[19:30:37] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.1
+[19:30:37] [Server thread/INFO]: [QStaffMode] Disabling QStaffMode v1.3.6
+[19:30:37] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
+[19:30:37] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.3.0
+[19:30:37] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
+[19:30:37] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
+[19:30:37] [Server thread/INFO]: [PingPlayer] Disabling PingPlayer v1.3.3
+[19:30:37] [Server thread/INFO]: [PingPlayer] PingPlayer v1.3.3 disabled.
+[19:30:37] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.152
+[19:30:37] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[19:30:37] [Server thread/INFO]: [LuckPerms] Closing storage...
+[19:30:37] [Server thread/INFO]: [LuckPerms] Goodbye!
+[19:30:37] [Server thread/INFO]: Saving players
+[19:30:37] [Server thread/INFO]: Saving worlds
+[19:30:37] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19:30:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:30:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[19:30:38] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:30:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[19:30:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:30:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19:30:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19:30:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19:30:39] [Server thread/INFO]: Flushing Chunk IO
+[19:30:39] [Server thread/INFO]: Closing Thread Pool
+[19:30:39] [Server thread/INFO]: Closing Server
