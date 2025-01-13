@@ -119,3 +119,31 @@
 [21:00:56] [User Authenticator #2/INFO]: UUID of player Pato_con_flow is 9cbff30d-e6f3-3a59-9267-baae0b1b89cc
 [21:00:56] [Server thread/INFO]: Pato_con_flow joined the game
 [21:00:56] [Server thread/INFO]: Pato_con_flow[/127.67.59.64:58227] logged in with entity id 819 at ([world]4.760361931213552, 64.0, 190.94331716756736)
+[21:03:23] [User Authenticator #3/INFO]: UUID of player Jotadream18 is 294b1528-ef6e-38d5-9794-dabc61f71d99
+[21:03:24] [Server thread/INFO]: Jotadream18 joined the game
+[21:03:24] [Server thread/INFO]: Jotadream18[/127.193.87.50:44047] logged in with entity id 1406 at ([world]13.5, 64.0, 192.5)
+[21:04:31] [Server thread/INFO]: Jotadream18 was blown up by Creeper
+[21:04:44] [Server thread/INFO]: Pato_con_flow has made the advancement [Stone Age]
+[21:04:50] [Async Chat Thread - #0/INFO]: <Pato_con_flow> oa
+[21:04:59] [Async Chat Thread - #0/INFO]: <Jotadream18> oa
+[21:05:05] [Server thread/INFO]: Pato_con_flow was shot by Skeleton
+[21:05:11] [Server thread/INFO]: Pato_con_flow issued server command: /time set day
+[21:05:11] [Server thread/INFO]: [Pato_con_flow: Set the time to 1000]
+[21:05:33] [Server thread/INFO]: Pato_con_flow has made the advancement [Monster Hunter]
+[21:05:53] [Server thread/INFO]: Jotadream18 has made the advancement [Monster Hunter]
+[21:06:03] [Server thread/INFO]: Jotadream18 has made the advancement [Best Friends Forever]
+[21:06:03] [Server thread/INFO]: Pato_con_flow has made the advancement [Getting an Upgrade]
+[21:06:40] [Server thread/INFO]: CAMEXS issued server command: /
+[21:07:02] [Server thread/INFO]: CAMEXS issued server command: /o
+[21:07:12] [Server thread/INFO]: CAMEXS issued server command: /
+[21:07:19] [Async Chat Thread - #1/INFO]: <CAMEXS> hola jota
+[21:07:24] [Async Chat Thread - #1/INFO]: <Jotadream18> hola bro
+[21:07:40] [Server thread/INFO]: Pato_con_flow issued server command: /lp user Jotadream18 parent set miembro
+[21:07:43] [Server thread/INFO]: Pato_con_flow issued server command: /lp user Jotadream18 parent set miembros
+[21:07:43] [luckperms-command-executor/INFO]: [LP] LOG > (Pato_con_flow) [U] (jotadream18)
+[21:07:43] [luckperms-command-executor/INFO]: [LP] LOG > parent set miembros
+[21:08:09] [Server thread/INFO]: Jotadream18 has made the advancement [Stone Age]
+[21:08:25] [Server thread/INFO]: CAMEXS lost connection: Timed out
+[21:08:25] [Server thread/INFO]: CAMEXS left the game
+[21:08:44] [Server thread/INFO]: Jotadream18 has made the advancement [Getting an Upgrade]
+[21:09:10] [Async Chat Thread - #2/INFO]: <Pato_con_flow> para el que quiera estoy en llamada vc 1
