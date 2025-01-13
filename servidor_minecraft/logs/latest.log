@@ -462,3 +462,10 @@
 [22:00:36] [Server thread/WARN]: Boat (vehicle of CAMEXS) moved wrongly! 1.418701171875
 [22:00:36] [Server thread/WARN]: Boat (vehicle of CAMEXS) moved wrongly! 1.418701171875
 [22:01:11] [Server thread/INFO]: CAMEXS issued server command: /msg Pato_con_flow cuando llgue a una aldea le paso cords
+[22:03:55] [Server thread/INFO]: Jotadream18 has made the advancement [A Seedy Place]
+[22:04:50] [Server thread/INFO]: Pato_con_flow has made the advancement [Sweet Dreams]
+[22:04:55] [Async Chat Thread - #13/INFO]: <Pato_con_flow> zzz
+[22:05:03] [Async Chat Thread - #13/INFO]: <CAMEXS> zzz
+[22:05:15] [Async Chat Thread - #13/INFO]: <Pato_con_flow> ZZZZZZZZZZZZZZZZZZ
+[22:06:16] [Server thread/INFO]: Villager EntityVillager['Nitwit'/27289, uuid='b42f7b4d-91a4-4d76-b510-376bc964cc5d', l='ServerLevel[world]', x=-3246.48, y=62.04, z=535.70, cx=-203, cz=33, tl=7678, v=true, d=false] died, message: 'Nitwit drowned'
+[22:08:23] [Server thread/INFO]: Pato_con_flow issued server command: /tps
