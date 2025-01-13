@@ -203,6 +203,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_reeds": "2025-01-13 21:53:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-01-13 21:21:00 +0000"
@@ -718,6 +724,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-01-13 21:53:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2025-01-13 21:13:48 +0000"
@@ -1016,8 +1028,12 @@
     "criteria": {
       "minecraft:forest": "2025-01-13 21:03:24 +0000",
       "minecraft:mountains": "2025-01-13 21:44:44 +0000",
+      "minecraft:warm_ocean": "2025-01-13 21:49:35 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-01-13 21:50:00 +0000",
+      "minecraft:beach": "2025-01-13 21:50:56 +0000",
       "minecraft:dark_forest": "2025-01-13 21:14:34 +0000",
       "minecraft:river": "2025-01-13 21:44:58 +0000",
+      "minecraft:lukewarm_ocean": "2025-01-13 21:49:28 +0000",
       "minecraft:wooded_mountains": "2025-01-13 21:46:13 +0000",
       "minecraft:wooded_hills": "2025-01-13 21:04:25 +0000",
       "minecraft:stone_shore": "2025-01-13 21:46:59 +0000",

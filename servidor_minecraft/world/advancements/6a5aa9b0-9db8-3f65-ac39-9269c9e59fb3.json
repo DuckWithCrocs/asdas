@@ -225,6 +225,7 @@
     "criteria": {
       "cooked_mutton": "2025-01-13 21:34:54 +0000",
       "sweet_berries": "2025-01-13 21:39:14 +0000",
+      "cooked_beef": "2025-01-13 21:53:12 +0000",
       "mutton": "2025-01-13 21:38:13 +0000"
     },
     "done": false
@@ -427,11 +428,15 @@
       "minecraft:mountains": "2025-01-13 21:33:33 +0000",
       "minecraft:taiga": "2025-01-13 21:28:35 +0000",
       "minecraft:taiga_hills": "2025-01-13 21:31:42 +0000",
+      "minecraft:birch_forest": "2025-01-13 21:55:18 +0000",
       "minecraft:warm_ocean": "2025-01-13 21:47:33 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-01-13 21:53:18 +0000",
       "minecraft:beach": "2025-01-13 21:45:49 +0000",
       "minecraft:river": "2025-01-13 21:33:28 +0000",
       "minecraft:lukewarm_ocean": "2025-01-13 21:47:00 +0000",
+      "minecraft:birch_forest_hills": "2025-01-13 21:56:01 +0000",
       "minecraft:wooded_hills": "2025-01-13 21:44:11 +0000",
+      "minecraft:stone_shore": "2025-01-13 21:52:48 +0000",
       "minecraft:plains": "2025-01-13 21:41:52 +0000"
     },
     "done": false
