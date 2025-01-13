@@ -107,3 +107,15 @@
 [20:41:55] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
 [20:41:55] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mDo you have issues? Read our troubleshooting guide: [33;1mhttps://skinsrestorer.net/docs/troubleshooting[0;39m
 [20:41:55] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer? Consider donating: [33;1mhttps://skinsrestorer.net/donate[0;39m
+[20:51:49] [User Authenticator #1/INFO]: UUID of player CAMEXS is 6a5aa9b0-9db8-3f65-ac39-9269c9e59fb3
+[20:51:49] [Server thread/INFO]: CAMEXS joined the game
+[20:51:49] [Server thread/INFO]: CAMEXS[/127.67.59.64:57075] logged in with entity id 224 at ([world]240.21384258290254, 72.0, 378.32455755304625)
+[20:55:36] [Server thread/INFO]: CAMEXS issued server command: /g 1
+[20:55:44] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[20:55:47] [Server thread/INFO]: Made CAMEXS a server operator
+[20:55:52] [Server thread/INFO]: CAMEXS issued server command: /ga
+[20:56:01] [Server thread/INFO]: CAMEXS issued server command: /gamemode 0
+[20:56:16] [Server thread/INFO]: CAMEXS issued server command: /gamemode sp
+[21:00:56] [User Authenticator #2/INFO]: UUID of player Pato_con_flow is 9cbff30d-e6f3-3a59-9267-baae0b1b89cc
+[21:00:56] [Server thread/INFO]: Pato_con_flow joined the game
+[21:00:56] [Server thread/INFO]: Pato_con_flow[/127.67.59.64:58227] logged in with entity id 819 at ([world]4.760361931213552, 64.0, 190.94331716756736)
