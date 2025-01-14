@@ -440,3 +440,10 @@
 [21:27:56] [Server thread/INFO]: [CAMEXS: Set own game mode to Creative Mode]
 [21:28:19] [Server thread/INFO]: CAMEXS issued server command: /gamemode survival
 [21:28:19] [Server thread/INFO]: [CAMEXS: Set own game mode to Survival Mode]
+[21:41:57] [Server thread/INFO]: CAMEXS was blown up by Creeper
+[21:42:05] [Server thread/INFO]: CAMEXS issued server command: /gamemode spectator
+[21:42:05] [Server thread/INFO]: [CAMEXS: Set own game mode to Spectator Mode]
+[21:43:02] [Server thread/INFO]: CAMEXS issued server command: /gamemode creative
+[21:43:02] [Server thread/INFO]: [CAMEXS: Set own game mode to Creative Mode]
+[21:43:19] [Server thread/INFO]: CAMEXS issued server command: /gamemode survival
+[21:43:19] [Server thread/INFO]: [CAMEXS: Set own game mode to Survival Mode]
