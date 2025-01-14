@@ -409,3 +409,23 @@
 [20:18:03] [Server thread/INFO]: CAMEXS has made the advancement [Take Aim]
 [20:37:27] [Async Chat Thread - #25/INFO]: <CAMEXS> -.-
 [20:46:48] [Server thread/INFO]: CAMEXS was slain by Zombie Villager
+[20:47:45] [Server thread/INFO]: CAMEXS was shot by Skeleton
+[20:48:39] [Server thread/INFO]: CAMEXS was shot by Skeleton
+[20:48:55] [Server thread/INFO]: CAMEXS issued server command: /gamemode spectator
+[20:48:55] [Server thread/INFO]: [CAMEXS: Set own game mode to Spectator Mode]
+[20:49:19] [Server thread/INFO]: CAMEXS issued server command: /gamemode survival
+[20:49:19] [Server thread/INFO]: [CAMEXS: Set own game mode to Survival Mode]
+[20:49:49] [Server thread/INFO]: CAMEXS issued server command: /gamemode creative
+[20:49:49] [Server thread/INFO]: [CAMEXS: Set own game mode to Creative Mode]
+[20:50:41] [Server thread/INFO]: CAMEXS issued server command: /gamemode survival
+[20:50:41] [Server thread/INFO]: [CAMEXS: Set own game mode to Survival Mode]
+[20:50:58] [Server thread/INFO]: CAMEXS issued server command: /gamemode creative
+[20:50:58] [Server thread/INFO]: [CAMEXS: Set own game mode to Creative Mode]
+[20:51:26] [Server thread/INFO]: CAMEXS issued server command: /g
+[20:51:52] [Async Chat Thread - #26/INFO]: <CAMEXS> _g
+[20:51:59] [Server thread/INFO]: CAMEXS issued server command: /gamemode survival
+[20:51:59] [Server thread/INFO]: [CAMEXS: Set own game mode to Survival Mode]
+[20:55:19] [Server thread/INFO]: CAMEXS issued server command: /gamemode creative
+[20:55:19] [Server thread/INFO]: [CAMEXS: Set own game mode to Creative Mode]
+[20:55:37] [Server thread/INFO]: CAMEXS issued server command: /gamemode survival
+[20:55:37] [Server thread/INFO]: [CAMEXS: Set own game mode to Survival Mode]
