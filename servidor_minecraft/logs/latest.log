@@ -447,3 +447,177 @@
 [21:43:02] [Server thread/INFO]: [CAMEXS: Set own game mode to Creative Mode]
 [21:43:19] [Server thread/INFO]: CAMEXS issued server command: /gamemode survival
 [21:43:19] [Server thread/INFO]: [CAMEXS: Set own game mode to Survival Mode]
+[22:05:23] [Server thread/INFO]: [PlayerControl] Config Reloaded.
+[22:07:05] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
+[22:07:05] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
+[22:07:05] [Server thread/INFO]: Debug logging is disabled
+[22:07:05] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[22:07:05] [Server thread/INFO]: Using 4 threads for Netty based IO
+[22:07:05] [Server thread/INFO]: [PlayerControl] Disabling PlayerControl v1.7.4
+[22:07:05] [Server thread/INFO]: [PlayerControl] Has been disabled! Version: 1.7.4
+[22:07:05] [Server thread/INFO]: [NametagEdit] Disabling NametagEdit v4.5.23
+[22:07:05] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.1
+[22:07:05] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
+[22:07:05] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.3.0
+[22:07:05] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
+[22:07:05] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
+[22:07:05] [Server thread/INFO]: [PingPlayer] Disabling PingPlayer v1.3.3
+[22:07:05] [Server thread/INFO]: [PingPlayer] PingPlayer v1.3.3 disabled.
+[22:07:05] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.152
+[22:07:05] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[22:07:05] [Server thread/INFO]: [LuckPerms] Closing storage...
+[22:07:05] [Server thread/INFO]: [LuckPerms] Goodbye!
+[22:07:05] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[22:07:05] [Server thread/INFO]: Loaded 7 recipes
+[22:07:06] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[22:07:06] [Server thread/INFO]: Loaded 7 recipes
+[22:07:06] [Server thread/WARN]: Legacy plugin PingPlayer v1.3.3 does not specify an api-version.
+[22:07:06] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.4.152
+[22:07:06] [Server thread/INFO]: [PingPlayer] Loading PingPlayer v1.3.3
+[22:07:06] [Server thread/INFO]: [LoginSecurity] Loading LoginSecurity v3.3.0
+[22:07:06] [Server thread/INFO]: [PlaceholderAPI] Loading PlaceholderAPI v2.11.6
+[22:07:06] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v15.5.1
+[22:07:06] [Server thread/INFO]: [NametagEdit] Loading NametagEdit v4.5.23
+[22:07:06] [Server thread/INFO]: [PlayerControl] Loading PlayerControl v1.7.4
+[22:07:06] [Server thread/INFO]: [StaffPlus] Loading StaffPlus v3.3.14.2
+[22:07:06] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: staffplus [3.3.14.2]
+[22:07:06] [Server thread/INFO]: Hooked into PlaceholderAPI 2.11.6
+[22:07:06] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:07:06] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.152
+[22:07:06] [Server thread/INFO]:         __    
+[22:07:06] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.152
+[22:07:06] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[22:07:06] [Server thread/INFO]: 
+[22:07:06] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[22:07:06] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[22:07:07] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[22:07:07] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[22:07:07] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 608ms)
+[22:07:07] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.1
+[22:07:07] [User Authenticator #13/INFO]: UUID of player Pato_con_flow is 9cbff30d-e6f3-3a59-9267-baae0b1b89cc
+[22:07:07] [Server thread/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mSkinsRestorer was already loaded in this JVM. You must've used a plugin like PlugMan to reload it. This is not supported and will cause issues with the plugin! Please restart your server to reload the plugin properly.[0;39m
+[22:07:07] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1mYou must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.[0;39m
+[22:07:07] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.16.5[32;1m.[0;39m
+[22:07:07] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mUsing paper join listener![0;39m
+[22:07:07] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: skinsrestorer [15.5.1]
+[22:07:07] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mPlaceholderAPI expansion registered![0;39m
+[22:07:07] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mYou are running an outdated Java version, please update it to at least Java 21 (your version is 11).[0;39m
+[22:07:07] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mSkinsRestorer no longer officially supports this version of Java, you are currently using an unsupported compatibility build.[0;39m
+[22:07:07] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mYou can still use the plugin, but you may encounter issues that are not present in newer versions of Java.[0;39m
+[22:07:07] [Server thread/INFO]: [PingPlayer] Enabling PingPlayer v1.3.3*
+[22:07:07] [Server thread/INFO]: [PingPlayer] Detected Minecraft version 1.16+, using new ping method.
+[22:07:07] [Server thread/INFO]: [PingPlayer] PingPlayer v1.3.3 enabled.
+[22:07:07] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.3.0
+[22:07:07] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
+[22:07:07] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
+[22:07:07] [Server thread/INFO]: [LoginSecurity] Registering commands...
+[22:07:07] [Server thread/INFO]: [LoginSecurity] Registering listeners...
+[22:07:08] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
+[22:07:08] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
+[22:07:08] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[22:07:08] [Server thread/INFO]: [NametagEdit] Enabling NametagEdit v4.5.23
+[22:07:08] [Server thread/INFO]: [NametagEdit] Successfully loaded using bukkit version: v1_16_R3
+[22:07:08] [Server thread/INFO]: [NametagEdit] Found LuckPerms! Hooking in.
+[22:07:08] [Server thread/INFO]: [PlayerControl] Enabling PlayerControl v1.7.4
+[22:07:08] [Server thread/INFO]: [PlayerControl] Has been enabled! Version: 1.7.4
+[22:07:08] [Server thread/INFO]: [PlayerControl] Thanks for using my plugin!  ~Ajneb97
+[22:07:08] [Server thread/INFO]: [StaffPlus] Enabling StaffPlus v3.3.14.2
+[22:07:08] [Server thread/INFO]: [Staff+] Version protocol set to 'v1_16_R3'.
+[22:07:08] [Server thread/INFO]: [Staff+] Creating language file 'lang_en'.
+[22:07:08] [Server thread/INFO]: [Staff+] Creating language file 'lang_sv'.
+[22:07:08] [Server thread/INFO]: [Staff+] Creating language file 'lang_de'.
+[22:07:08] [Server thread/INFO]: [Staff+] Creating language file 'lang_nl'.
+[22:07:08] [Server thread/INFO]: [Staff+] Creating language file 'lang_es'.
+[22:07:08] [Server thread/INFO]: [Staff+] Creating language file 'lang_hr'.
+[22:07:08] [Server thread/INFO]: [Staff+] Creating language file 'lang_no'.
+[22:07:08] [Server thread/INFO]: [Staff+] Creating language file 'lang_fr'.
+[22:07:08] [Server thread/INFO]: [Staff+] Creating language file 'lang_hu'.
+[22:07:08] [Server thread/INFO]: [Staff+] Creating language file 'lang_it'.
+[22:07:08] [Server thread/INFO]: [Staff+] Creating language file 'lang_zh'.
+[22:07:08] [Server thread/INFO]: [Staff+] Creating language file 'lang_pt'.
+[22:07:08] [Server thread/INFO]: [Staff+] Staff+ has been enabled! Initialization took 54ms.
+[22:07:08] [Server thread/INFO]: [Staff+] Plugin created by Shortninja continued by Qball.
+[22:07:08] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[22:07:08] [Server thread/INFO]: 0 placeholder hook(s) registered!
+[22:07:08] [Server thread/INFO]: CONSOLE: Reload complete.
+[22:07:08] [Server thread/INFO]: Timings Reset
+[22:07:08] [Craft Scheduler Thread - 68/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[22:07:08] [Craft Scheduler Thread - 68/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[22:07:08] [Craft Scheduler Thread - 68/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
+[22:07:08] [Craft Scheduler Thread - 68/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m
+[22:07:08] [Craft Scheduler Thread - 68/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m
+[22:07:08] [Craft Scheduler Thread - 68/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[22:07:08] [Craft Scheduler Thread - 68/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[22:07:08] [Craft Scheduler Thread - 68/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.5.1[0;39m
+[22:07:08] [Craft Scheduler Thread - 68/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1md5d8613[0;39m
+[22:07:08] [Craft Scheduler Thread - 68/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m
+[22:07:08] [Craft Scheduler Thread - 68/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[22:07:08] [Craft Scheduler Thread - 68/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mDo you have issues? Read our troubleshooting guide: [33;1mhttps://skinsrestorer.net/docs/troubleshooting[0;39m
+[22:07:08] [Craft Scheduler Thread - 68/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer? Consider donating: [33;1mhttps://skinsrestorer.net/donate[0;39m
+[22:07:08] [Server thread/INFO]: Pato_con_flow joined the game
+[22:07:08] [Server thread/INFO]: Pato_con_flow[/127.67.59.64:37069] logged in with entity id 38620 at ([world]1136.3100298590748, 85.0, 884.1278004335205)
+[22:07:09] [Craft Scheduler Thread - 73/INFO]: [StaffPlus] You are using the latest version thanks
+[22:08:14] [Server thread/INFO]: Pato_con_flow issued server command: /staff
+[22:08:14] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[22:08:14] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[22:08:14] [Server thread/INFO]: Pato_con_flow has made the advancement [Into Fire]
+[22:08:16] [Server thread/INFO]: Pato_con_flow issued server command: /staff
+[22:08:16] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[22:08:16] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[22:08:18] [Server thread/INFO]: Pato_con_flow issued server command: /staff
+[22:08:18] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[22:08:18] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[22:08:42] [Server thread/INFO]: Pato_con_flow issued server command: /staff
+[22:08:42] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[22:08:42] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[22:08:44] [Server thread/INFO]: Pato_con_flow issued server command: /staff
+[22:08:44] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[22:08:44] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[22:09:08] [Server thread/INFO]: Pato_con_flow issued server command: /staff
+[22:09:08] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[22:09:08] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[22:09:54] [Async Chat Thread - #27/INFO]: <CAMEXS> ole
+[22:10:17] [Async Chat Thread - #27/INFO]: <CAMEXS> llamada?
+[22:10:26] [Async Chat Thread - #27/INFO]: <Pato_con_flow> noc
+[22:10:29] [Async Chat Thread - #27/INFO]: <Pato_con_flow> lag
+[22:10:32] [Async Chat Thread - #27/INFO]: <CAMEXS> fac
+[22:10:33] [Async Chat Thread - #27/INFO]: <CAMEXS> ole
+[22:10:35] [Async Chat Thread - #27/INFO]: <Pato_con_flow> y no tengo micro
+[22:10:36] [Async Chat Thread - #27/INFO]: <Pato_con_flow> ??
+[22:10:42] [Async Chat Thread - #27/INFO]: <CAMEXS> tengo sietas tareas
+[22:10:55] [Async Chat Thread - #27/INFO]: <CAMEXS> ciertas*
+[22:11:14] [Server thread/INFO]: Pato_con_flow lost connection: Disconnected
+[22:11:14] [Server thread/INFO]: Pato_con_flow left the game
+[22:11:15] [Async Chat Thread - #27/INFO]: <CAMEXS> 1. conseguir las armadura de diamante
+[22:11:21] [User Authenticator #14/INFO]: UUID of player Pato_con_flow is 9cbff30d-e6f3-3a59-9267-baae0b1b89cc
+[22:11:21] [Server thread/INFO]: Pato_con_flow joined the game
+[22:11:21] [Server thread/INFO]: Pato_con_flow[/127.67.59.64:36243] logged in with entity id 39331 at ([world]1400.3377708667415, 64.0, 1050.078257450794)
+[22:11:25] [Async Chat Thread - #27/INFO]: <CAMEXS> 1. conseguir las armadura de diamante
+[22:11:42] [Async Chat Thread - #27/INFO]: <CAMEXS> 2. conseguir reparacion
+[22:11:54] [Async Chat Thread - #27/INFO]: <CAMEXS> y 3 hacer una granga de xp
+[22:12:05] [Async Chat Thread - #27/INFO]: <Pato_con_flow> eso cuando habran end
+[22:12:14] [Async Chat Thread - #27/INFO]: <Pato_con_flow> porque las granjas de xp del overworld son una mierda
+[22:12:19] [Async Chat Thread - #27/INFO]: <CAMEXS> bue
+[22:12:24] [Async Chat Thread - #27/INFO]: <Pato_con_flow> es mejor de endermans
+[22:12:32] [Async Chat Thread - #27/INFO]: <CAMEXS> entoces repacion
+[22:12:43] [Async Chat Thread - #27/INFO]: <CAMEXS> y prote 4
+[22:13:07] [Server thread/INFO]: Pato_con_flow has made the advancement [Cover Me With Diamonds]
+[22:14:32] [Async Chat Thread - #28/INFO]: <CAMEXS> a
+[22:14:42] [Async Chat Thread - #28/INFO]: <CAMEXS> encontre una mina abandonada
+[22:14:53] [Async Chat Thread - #28/INFO]: <CAMEXS> o esa mrd q tiene railes
+[22:15:06] [Async Chat Thread - #28/INFO]: <CAMEXS> ahi estaba
+[22:15:07] [Async Chat Thread - #28/INFO]: <Pato_con_flow> estaba en una rabin
+[22:15:09] [Async Chat Thread - #28/INFO]: <CAMEXS> esta grande
+[22:15:11] [Async Chat Thread - #28/INFO]: <CAMEXS> eso
+[22:15:27] [Async Chat Thread - #28/INFO]: <Pato_con_flow> consiga todos
+[22:15:30] [Async Chat Thread - #28/INFO]: <Pato_con_flow> los que pueda
+[22:15:36] [Async Chat Thread - #28/INFO]: <CAMEXS> yo no estoy ahi
+[22:17:06] [Async Chat Thread - #29/INFO]: <CAMEXS> zz?
+[22:17:09] [Server thread/INFO]: Pato_con_flow lost connection: Disconnected
+[22:17:09] [Server thread/INFO]: Pato_con_flow left the game
+[22:17:52] [User Authenticator #15/INFO]: UUID of player Pato_con_flow is 9cbff30d-e6f3-3a59-9267-baae0b1b89cc
+[22:17:52] [Server thread/INFO]: Pato_con_flow joined the game
+[22:17:52] [Server thread/INFO]: Pato_con_flow[/127.67.59.64:54117] logged in with entity id 40132 at ([world]1236.3931878023388, 69.0, 983.8404514425883)
+[22:18:01] [Server thread/INFO]: Pato_con_flow issued server command: /tps
+[22:18:27] [Async Chat Thread - #30/INFO]: <CAMEXS> ole
+[22:18:32] [Async Chat Thread - #30/INFO]: <Pato_con_flow> ??
