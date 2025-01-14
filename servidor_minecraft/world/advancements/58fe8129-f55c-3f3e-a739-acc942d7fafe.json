@@ -173,6 +173,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-01-14 19:43:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-01-14 19:08:59 +0000"
@@ -227,6 +233,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-01-14 19:37:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2025-01-14 18:35:48 +0000"
@@ -269,6 +281,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-01-14 19:43:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-01-14 19:33:19 +0000"
@@ -296,6 +314,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-01-14 19:09:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-01-14 19:40:58 +0000"
     },
     "done": true
   },
@@ -631,6 +655,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-01-14 19:43:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-01-14 19:09:33 +0000"
@@ -678,6 +708,18 @@
       "minecraft:skeleton": "2025-01-14 19:08:49 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-01-14 19:40:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-01-14 19:37:10 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
