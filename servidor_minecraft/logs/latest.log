@@ -138,3 +138,24 @@
 [18:31:30] [Async Chat Thread - #3/INFO]: <CAMEXS> ZZZzzzzzZ
 [18:31:58] [Server thread/INFO]: Zv_Belphegor has made the advancement [Sweet Dreams]
 [18:34:04] [Server thread/INFO]: Villager EntityVillager['Nitwit'/185, uuid='e161244a-39da-456e-98ce-a23dd0b58149', l='ServerLevel[world]', x=1393.10, y=63.94, z=1035.49, cx=87, cz=64, tl=34591, v=true, d=false] died, message: 'Nitwit was slain by Pato_con_flow'
+[18:37:27] [Server thread/INFO]: Pato_con_flow has made the advancement [What a Deal!]
+[18:37:51] [Async Chat Thread - #4/INFO]: <CAMEXS> algun tiene una montura?
+[18:37:56] [Async Chat Thread - #4/INFO]: <Pato_con_flow> nope
+[18:42:30] [User Authenticator #4/INFO]: UUID of player Hanzzzel is 0f0051f8-dd14-3c3b-bf0a-9cae35915715
+[18:42:30] [Server thread/INFO]: Hanzzzel joined the game
+[18:42:30] [Server thread/INFO]: Hanzzzel[/127.51.136.167:45415] logged in with entity id 4125 at ([world]21.5, 64.0, 183.5)
+[18:42:39] [Async Chat Thread - #5/INFO]: <CAMEXS> wenasss!
+[18:42:45] [Server thread/INFO]: Pato_con_flow issued server command: /lp user Hanzzzel parent set miembros
+[18:42:45] [luckperms-command-executor/INFO]: [LP] LOG > (Pato_con_flow) [U] (hanzzzel)
+[18:42:45] [luckperms-command-executor/INFO]: [LP] LOG > parent set miembros
+[18:42:48] [Async Chat Thread - #5/INFO]: <Pato_con_flow> buenas
+[18:43:14] [Async Chat Thread - #5/INFO]: <Hanzzzel> hola
+[18:43:18] [Async Chat Thread - #5/INFO]: <Hanzzzel> :D
+[18:43:18] [Async Chat Thread - #5/INFO]: <Pato_con_flow> hola
+[18:43:22] [Async Chat Thread - #5/INFO]: <Hanzzzel> por fin
+[18:43:26] [Async Chat Thread - #5/INFO]: <CAMEXS> haste una camaaaa
+[18:43:37] [Async Chat Thread - #5/INFO]: <Hanzzzel> ya va
+[18:43:53] [Async Chat Thread - #5/INFO]: <Pato_con_flow> zzzzz
+[18:44:26] [Async Chat Thread - #5/INFO]: <CAMEXS> zzzz
+[18:45:13] [Async Chat Thread - #5/INFO]: <CAMEXS> @
+[18:45:20] [Server thread/WARN]: CAMEXS moved wrongly!
