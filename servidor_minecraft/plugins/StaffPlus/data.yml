@@ -1,1 +1,22 @@
 # All saved data for Staff+. Only modify this file if you know what you're doing!
+
+6a5aa9b0-9db8-3f65-ac39-9269c9e59fb3:
+  name: CAMEXS
+  glass-color: 0
+  reports: []
+  warnings: []
+  notes: []
+  alert-options:
+  - XRAY;true
+  - MENTION;true
+  - NAME_CHANGE;true
+9cbff30d-e6f3-3a59-9267-baae0b1b89cc:
+  name: Pato_con_flow
+  glass-color: 0
+  reports: []
+  warnings: []
+  notes: []
+  alert-options:
+  - XRAY;true
+  - MENTION;true
+  - NAME_CHANGE;true
