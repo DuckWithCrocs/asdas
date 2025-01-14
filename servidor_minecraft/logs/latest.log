@@ -430,3 +430,11 @@
 [20:55:37] [Server thread/INFO]: CAMEXS issued server command: /gamemode survival
 [20:55:37] [Server thread/INFO]: [CAMEXS: Set own game mode to Survival Mode]
 [20:58:02] [Server thread/INFO]: CAMEXS has made the advancement [Diamonds!]
+[21:18:54] [Server thread/INFO]: CAMEXS starved to death
+[21:20:42] [Server thread/INFO]: CAMEXS issued server command: /gamemode spectator
+[21:20:42] [Server thread/INFO]: [CAMEXS: Set own game mode to Spectator Mode]
+[21:21:02] [Server thread/INFO]: CAMEXS issued server command: /gamemode survival
+[21:21:02] [Server thread/INFO]: [CAMEXS: Set own game mode to Survival Mode]
+[21:26:07] [Server thread/INFO]: CAMEXS issued server command: /
+[21:27:56] [Server thread/INFO]: CAMEXS issued server command: /gamemode creative
+[21:27:56] [Server thread/INFO]: [CAMEXS: Set own game mode to Creative Mode]
