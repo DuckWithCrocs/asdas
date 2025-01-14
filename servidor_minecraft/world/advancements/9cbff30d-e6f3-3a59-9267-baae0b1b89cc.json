@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-01-14 00:04:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-01-13 21:06:57 +0000"
@@ -104,6 +110,12 @@
   "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
       "has_white_wool": "2025-01-13 21:06:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-01-14 00:04:57 +0000"
     },
     "done": true
   },
@@ -274,6 +286,7 @@
       "cooked_porkchop": "2025-01-13 21:50:34 +0000",
       "cooked_mutton": "2025-01-13 21:09:16 +0000",
       "cooked_beef": "2025-01-13 21:13:04 +0000",
+      "beef": "2025-01-13 23:28:13 +0000",
       "cooked_chicken": "2025-01-13 21:51:24 +0000"
     },
     "done": false
@@ -356,6 +369,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-01-14 00:04:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_leggings": {
     "criteria": {
       "has_leather": "2025-01-13 21:06:54 +0000"
@@ -383,6 +402,12 @@
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2025-01-13 21:49:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-01-14 18:21:53 +0000"
     },
     "done": true
   },
@@ -692,6 +717,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-01-13 22:15:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_red_flower": "2025-01-14 00:02:44 +0000"
     },
     "done": true
   },
@@ -1031,6 +1062,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-01-14 00:03:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_oak_planks": "2025-01-13 21:04:09 +0000"
@@ -1140,7 +1177,9 @@
       "minecraft:taiga": "2025-01-13 22:03:19 +0000",
       "minecraft:taiga_hills": "2025-01-13 22:03:56 +0000",
       "minecraft:birch_forest": "2025-01-13 22:26:01 +0000",
+      "minecraft:warm_ocean": "2025-01-13 23:51:57 +0000",
       "minecraft:beach": "2025-01-13 22:09:43 +0000",
+      "minecraft:dark_forest": "2025-01-13 23:41:38 +0000",
       "minecraft:river": "2025-01-13 22:06:39 +0000",
       "minecraft:lukewarm_ocean": "2025-01-13 22:09:47 +0000",
       "minecraft:wooded_mountains": "2025-01-13 22:10:03 +0000",
@@ -1280,6 +1319,12 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-01-13 22:04:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-01-13 23:59:44 +0000"
     },
     "done": true
   },

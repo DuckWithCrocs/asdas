@@ -1,527 +1,127 @@
-[20:41:40] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[20:41:41] [main/INFO]: Reloading ResourceManager: Default, bukkit
-[20:41:41] [Worker-Main-2/INFO]: Loaded 7 recipes
-[20:41:43] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[20:41:43] [Server thread/INFO]: Loading properties
-[20:41:43] [Server thread/INFO]: This server is running Paper version git-Paper-794 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
-[20:41:43] [Server thread/INFO]: Debug logging is disabled
-[20:41:43] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[20:41:43] [Server thread/INFO]: Using 4 threads for Netty based IO
-[20:41:43] [Server thread/INFO]: Default game type: SURVIVAL
-[20:41:43] [Server thread/INFO]: Generating keypair
-[20:41:43] [Server thread/INFO]: Starting Minecraft server on *:25565
-[20:41:43] [Server thread/INFO]: Using epoll channel type
-[20:41:44] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
-[20:41:48] [Server thread/WARN]: Legacy plugin PingPlayer v1.3.3 does not specify an api-version.
-[20:41:48] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.4.152
-[20:41:49] [Server thread/INFO]: [PingPlayer] Loading PingPlayer v1.3.3
-[20:41:49] [Server thread/INFO]: [LoginSecurity] Loading LoginSecurity v3.3.0
-[20:41:49] [Server thread/INFO]: [PlaceholderAPI] Loading PlaceholderAPI v2.11.6
-[20:41:49] [Server thread/INFO]: [QStaffMode] Loading QStaffMode v1.3.6
-[20:41:49] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v15.5.1
-[20:41:49] [Server thread/INFO]: [NametagEdit] Loading NametagEdit v4.5.23
-[20:41:49] [Server thread/INFO]: [PlayerControl] Loading PlayerControl v1.7.4
-[20:41:49] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[20:41:49] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.152
-[20:41:49] [Server thread/INFO]:         __    
-[20:41:49] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.152
-[20:41:49] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[20:41:49] [Server thread/INFO]: 
-[20:41:49] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[20:41:50] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[20:41:51] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[20:41:51] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[20:41:51] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 2448ms)
-[20:41:51] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.1
-[20:41:52] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1mYou must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.[0;39m
-[20:41:52] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.16.5[32;1m.[0;39m
-[20:41:52] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mUsing paper join listener![0;39m
-[20:41:53] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: skinsrestorer [15.5.1]
-[20:41:53] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mPlaceholderAPI expansion registered![0;39m
-[20:41:53] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mYou are running an outdated Java version, please update it to at least Java 21 (your version is 11).[0;39m
-[20:41:53] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mSkinsRestorer no longer officially supports this version of Java, you are currently using an unsupported compatibility build.[0;39m
-[20:41:53] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mYou can still use the plugin, but you may encounter issues that are not present in newer versions of Java.[0;39m
-[20:41:53] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20:41:53] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[20:41:53] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20:41:53] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[20:41:53] [Server thread/INFO]: Preparing level "world"
-[20:41:53] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[20:41:53] [Server thread/INFO]: Preparing spawn area: 0%
-[20:41:53] [Server thread/INFO]: Preparing spawn area: 0%
-[20:41:54] [Server thread/INFO]: Time elapsed: 765 ms
-[20:41:54] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[20:41:54] [Server thread/INFO]: Time elapsed: 200 ms
-[20:41:54] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[20:41:54] [Server thread/INFO]: Time elapsed: 159 ms
-[20:41:54] [Server thread/INFO]: [PingPlayer] Enabling PingPlayer v1.3.3*
-[20:41:54] [Server thread/INFO]: [PingPlayer] Detected Minecraft version 1.16+, using new ping method.
-[20:41:54] [Server thread/INFO]: [PingPlayer] PingPlayer v1.3.3 enabled.
-[20:41:54] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.3.0
-[20:41:54] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
-[20:41:54] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
-[20:41:54] [Server thread/INFO]: [LoginSecurity] Registering commands...
-[20:41:54] [Server thread/INFO]: [LoginSecurity] Registering listeners...
-[20:41:54] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
-[20:41:54] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
-[20:41:55] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
-[20:41:55] [Server thread/INFO]: [QStaffMode] Enabling QStaffMode v1.3.6
-[20:41:55] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: qstaffmode [1.0]
-[20:41:55] [Server thread/INFO]: QStaffMode 1.3.6 enabled
-[20:41:55] [Server thread/INFO]: [NametagEdit] Enabling NametagEdit v4.5.23
-[20:41:55] [Server thread/INFO]: [NametagEdit] Successfully loaded using bukkit version: v1_16_R3
-[20:41:55] [Server thread/INFO]: [NametagEdit] Found LuckPerms! Hooking in.
-[20:41:55] [Server thread/INFO]: [PlayerControl] Enabling PlayerControl v1.7.4
-[20:41:55] [Server thread/INFO]: [PlayerControl] Has been enabled! Version: 1.7.4
-[20:41:55] [Server thread/INFO]: [PlayerControl] Thanks for using my plugin!  ~Ajneb97
-[20:41:55] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
-[20:41:55] [Server thread/INFO]: Running delayed init tasks
-[20:41:55] [Server thread/INFO]: 0 placeholder hook(s) registered!
-[20:41:55] [Server thread/INFO]: Done (12.375s)! For help, type "help"
-[20:41:55] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
-[20:41:55] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * WARNING - YOU ARE RUNNING AN OUTDATED VERSION OF JAVA.
-[20:41:55] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * PAPER WILL STOP BEING COMPATIBLE WITH THIS VERSION OF
-[20:41:55] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * JAVA WHEN MINECRAFT 1.17 IS RELEASED.
-[20:41:55] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
-[20:41:55] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Please update the version of Java you use to run Paper
-[20:41:55] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * to at least Java 16. When Paper for Minecraft 1.17 is
-[20:41:55] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * released support for versions of Java before 16 will
-[20:41:55] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * be dropped.
-[20:41:55] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
-[20:41:55] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Current Java version: 11.0.25
-[20:41:55] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
-[20:41:55] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Check this forum post for more information: 
-[20:41:55] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *   https://papermc.io/java16
-[20:41:55] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
-[20:41:55] [Server thread/INFO]: Timings Reset
-[20:41:55] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
-[20:41:55] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
-[20:41:55] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
-[20:41:55] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m
-[20:41:55] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m
-[20:41:55] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
-[20:41:55] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
-[20:41:55] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.5.1[0;39m
-[20:41:55] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1md5d8613[0;39m
-[20:41:55] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m
-[20:41:55] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
-[20:41:55] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mDo you have issues? Read our troubleshooting guide: [33;1mhttps://skinsrestorer.net/docs/troubleshooting[0;39m
-[20:41:55] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer? Consider donating: [33;1mhttps://skinsrestorer.net/donate[0;39m
-[20:51:49] [User Authenticator #1/INFO]: UUID of player CAMEXS is 6a5aa9b0-9db8-3f65-ac39-9269c9e59fb3
-[20:51:49] [Server thread/INFO]: CAMEXS joined the game
-[20:51:49] [Server thread/INFO]: CAMEXS[/127.67.59.64:57075] logged in with entity id 224 at ([world]240.21384258290254, 72.0, 378.32455755304625)
-[20:55:36] [Server thread/INFO]: CAMEXS issued server command: /g 1
-[20:55:44] [Server thread/INFO]: Unknown command. Type "/help" for help.
-[20:55:47] [Server thread/INFO]: Made CAMEXS a server operator
-[20:55:52] [Server thread/INFO]: CAMEXS issued server command: /ga
-[20:56:01] [Server thread/INFO]: CAMEXS issued server command: /gamemode 0
-[20:56:16] [Server thread/INFO]: CAMEXS issued server command: /gamemode sp
-[21:00:56] [User Authenticator #2/INFO]: UUID of player Pato_con_flow is 9cbff30d-e6f3-3a59-9267-baae0b1b89cc
-[21:00:56] [Server thread/INFO]: Pato_con_flow joined the game
-[21:00:56] [Server thread/INFO]: Pato_con_flow[/127.67.59.64:58227] logged in with entity id 819 at ([world]4.760361931213552, 64.0, 190.94331716756736)
-[21:03:23] [User Authenticator #3/INFO]: UUID of player Jotadream18 is 294b1528-ef6e-38d5-9794-dabc61f71d99
-[21:03:24] [Server thread/INFO]: Jotadream18 joined the game
-[21:03:24] [Server thread/INFO]: Jotadream18[/127.193.87.50:44047] logged in with entity id 1406 at ([world]13.5, 64.0, 192.5)
-[21:04:31] [Server thread/INFO]: Jotadream18 was blown up by Creeper
-[21:04:44] [Server thread/INFO]: Pato_con_flow has made the advancement [Stone Age]
-[21:04:50] [Async Chat Thread - #0/INFO]: <Pato_con_flow> oa
-[21:04:59] [Async Chat Thread - #0/INFO]: <Jotadream18> oa
-[21:05:05] [Server thread/INFO]: Pato_con_flow was shot by Skeleton
-[21:05:11] [Server thread/INFO]: Pato_con_flow issued server command: /time set day
-[21:05:11] [Server thread/INFO]: [Pato_con_flow: Set the time to 1000]
-[21:05:33] [Server thread/INFO]: Pato_con_flow has made the advancement [Monster Hunter]
-[21:05:53] [Server thread/INFO]: Jotadream18 has made the advancement [Monster Hunter]
-[21:06:03] [Server thread/INFO]: Jotadream18 has made the advancement [Best Friends Forever]
-[21:06:03] [Server thread/INFO]: Pato_con_flow has made the advancement [Getting an Upgrade]
-[21:06:40] [Server thread/INFO]: CAMEXS issued server command: /
-[21:07:02] [Server thread/INFO]: CAMEXS issued server command: /o
-[21:07:12] [Server thread/INFO]: CAMEXS issued server command: /
-[21:07:19] [Async Chat Thread - #1/INFO]: <CAMEXS> hola jota
-[21:07:24] [Async Chat Thread - #1/INFO]: <Jotadream18> hola bro
-[21:07:40] [Server thread/INFO]: Pato_con_flow issued server command: /lp user Jotadream18 parent set miembro
-[21:07:43] [Server thread/INFO]: Pato_con_flow issued server command: /lp user Jotadream18 parent set miembros
-[21:07:43] [luckperms-command-executor/INFO]: [LP] LOG > (Pato_con_flow) [U] (jotadream18)
-[21:07:43] [luckperms-command-executor/INFO]: [LP] LOG > parent set miembros
-[21:08:09] [Server thread/INFO]: Jotadream18 has made the advancement [Stone Age]
-[21:08:25] [Server thread/INFO]: CAMEXS lost connection: Timed out
-[21:08:25] [Server thread/INFO]: CAMEXS left the game
-[21:08:44] [Server thread/INFO]: Jotadream18 has made the advancement [Getting an Upgrade]
-[21:09:10] [Async Chat Thread - #2/INFO]: <Pato_con_flow> para el que quiera estoy en llamada vc 1
-[21:12:33] [Server thread/INFO]: Pato_con_flow has made the advancement [Acquire Hardware]
-[21:12:39] [User Authenticator #4/INFO]: UUID of player CAMEXS is 6a5aa9b0-9db8-3f65-ac39-9269c9e59fb3
-[21:12:39] [Server thread/INFO]: CAMEXS joined the game
-[21:12:39] [Server thread/INFO]: CAMEXS[/127.163.218.61:47237] logged in with entity id 3799 at ([world]235.34701273026138, 79.05943236916077, 317.37264543335215)
-[21:13:16] [Server thread/INFO]: CAMEXS fell out of the world
-[21:13:20] [Async Chat Thread - #3/INFO]: <Pato_con_flow> ??
-[21:13:26] [Server thread/INFO]: CAMEXS fell out of the world
-[21:13:35] [Server thread/INFO]: CAMEXS fell out of the world
-[21:13:43] [Server thread/INFO]: CAMEXS issued server command: /tp CAMEXS Jotadream18
-[21:13:43] [Server thread/INFO]: [CAMEXS: Teleported CAMEXS to Jotadream18]
-[21:13:46] [Server thread/INFO]: CAMEXS lost connection: Disconnected
-[21:13:46] [Server thread/INFO]: CAMEXS left the game
-[21:14:04] [User Authenticator #5/INFO]: UUID of player CAMEXS is 6a5aa9b0-9db8-3f65-ac39-9269c9e59fb3
-[21:14:04] [Server thread/INFO]: CAMEXS joined the game
-[21:14:04] [Server thread/INFO]: CAMEXS[/127.163.218.61:60665] logged in with entity id 4199 at ([world]200.17074760076596, -46.33115749207213, 133.34470607088812)
-[21:14:07] [Server thread/INFO]: CAMEXS fell out of the world
-[21:14:15] [Server thread/INFO]: Pato_con_flow issued server command: /tp camexs Pato_con_flow
-[21:14:15] [Server thread/INFO]: [Pato_con_flow: Teleported CAMEXS to Pato_con_flow]
-[21:14:17] [Server thread/INFO]: Pato_con_flow issued server command: /tp camexs Pato_con_flow
-[21:14:17] [Server thread/INFO]: [Pato_con_flow: Teleported CAMEXS to Pato_con_flow]
-[21:14:17] [Server thread/INFO]: Pato_con_flow issued server command: /tp camexs Pato_con_flow
-[21:14:17] [Server thread/INFO]: [Pato_con_flow: Teleported CAMEXS to Pato_con_flow]
-[21:14:18] [Server thread/INFO]: Pato_con_flow issued server command: /tp camexs Pato_con_flow
-[21:14:18] [Server thread/INFO]: [Pato_con_flow: Teleported CAMEXS to Pato_con_flow]
-[21:14:18] [Server thread/INFO]: Pato_con_flow issued server command: /tp camexs Pato_con_flow
-[21:14:18] [Server thread/INFO]: [Pato_con_flow: Teleported CAMEXS to Pato_con_flow]
-[21:14:18] [Server thread/INFO]: Pato_con_flow issued server command: /tp camexs Pato_con_flow
-[21:14:18] [Server thread/INFO]: [Pato_con_flow: Teleported CAMEXS to Pato_con_flow]
-[21:14:18] [Server thread/INFO]: Pato_con_flow issued server command: /tp camexs Pato_con_flow
-[21:14:18] [Server thread/INFO]: [Pato_con_flow: Teleported CAMEXS to Pato_con_flow]
-[21:14:19] [Server thread/INFO]: Pato_con_flow issued server command: /tp camexs Pato_con_flow
-[21:14:19] [Server thread/INFO]: [Pato_con_flow: Teleported CAMEXS to Pato_con_flow]
-[21:14:19] [Server thread/INFO]: Pato_con_flow issued server command: /tp camexs Pato_con_flow
-[21:14:19] [Server thread/INFO]: [Pato_con_flow: Teleported CAMEXS to Pato_con_flow]
-[21:14:19] [Server thread/INFO]: Pato_con_flow issued server command: /tp camexs Pato_con_flow
-[21:14:19] [Server thread/INFO]: [Pato_con_flow: Teleported CAMEXS to Pato_con_flow]
-[21:14:19] [Server thread/INFO]: Pato_con_flow issued server command: /tp camexs Pato_con_flow
-[21:14:19] [Server thread/INFO]: [Pato_con_flow: Teleported CAMEXS to Pato_con_flow]
-[21:14:20] [Server thread/INFO]: Pato_con_flow issued server command: /tp camexs Pato_con_flow
-[21:14:20] [Server thread/INFO]: [Pato_con_flow: Teleported CAMEXS to Pato_con_flow]
-[21:14:20] [Server thread/INFO]: Pato_con_flow issued server command: /tp camexs Pato_con_flow
-[21:14:20] [Server thread/INFO]: [Pato_con_flow: Teleported CAMEXS to Pato_con_flow]
-[21:14:20] [Server thread/INFO]: Pato_con_flow issued server command: /tp camexs Pato_con_flow
-[21:14:20] [Server thread/INFO]: [Pato_con_flow: Teleported CAMEXS to Pato_con_flow]
-[21:14:27] [Server thread/INFO]: CAMEXS fell out of the world
-[21:14:30] [Server thread/INFO]: Pato_con_flow issued server command: /gm creative
-[21:14:34] [Server thread/INFO]: Pato_con_flow issued server command: /tp camexs
-[21:14:34] [Server thread/INFO]: [Pato_con_flow: Teleported Pato_con_flow to CAMEXS]
-[21:14:41] [Server thread/INFO]: CAMEXS fell out of the world
-[21:14:41] [Async Chat Thread - #4/INFO]: <CAMEXS> aaaa
-[21:14:42] [Server thread/INFO]: Pato_con_flow issued server command: /tp camexs Pato_con_flow
-[21:14:42] [Server thread/INFO]: [Pato_con_flow: Teleported CAMEXS to Pato_con_flow]
-[21:14:45] [Async Chat Thread - #4/INFO]: <Pato_con_flow> que paso
-[21:14:45] [Async Chat Thread - #4/INFO]: <Jotadream18> xd
-[21:14:49] [Server thread/INFO]: Pato_con_flow issued server command: /gamemode spectator
-[21:14:51] [Server thread/INFO]: CAMEXS issued server command: /gamemode 0
-[21:14:52] [Server thread/INFO]: CAMEXS fell out of the world
-[21:15:01] [Server thread/INFO]: Pato_con_flow issued server command: /gamemode survival
-[21:15:01] [Async Chat Thread - #4/INFO]: <CAMEXS> xd
-[21:15:14] [Async Chat Thread - #4/INFO]: <CAMEXS> no paso nada
-[21:15:21] [Async Chat Thread - #4/INFO]: <Pato_con_flow> ole metase al vc chat
-[21:15:31] [Async Chat Thread - #4/INFO]: <Pato_con_flow> busque una aldea
-[21:15:35] [Async Chat Thread - #4/INFO]: <CAMEXS> afk
-[21:15:58] [Server thread/INFO]: Pato_con_flow was blown up by Creeper
-[21:19:06] [Server thread/INFO]: Pato_con_flow has made the advancement [Isn't It Iron Pick]
-[21:19:47] [Server thread/INFO]: Pato_con_flow has made the advancement [Suit Up]
-[21:20:07] [Server thread/INFO]: Pato_con_flow has made the advancement [Not Today, Thank You]
-[21:21:00] [Server thread/INFO]: Jotadream18 has made the advancement [Acquire Hardware]
-[21:21:09] [Server thread/INFO]: Jotadream18 has made the advancement [Isn't It Iron Pick]
-[21:21:11] [Server thread/INFO]: Jotadream18 has made the advancement [Suit Up]
-[21:21:13] [Server thread/INFO]: Pato_con_flow was slain by Zombie
-[21:21:25] [Server thread/INFO]: Pato_con_flow issued server command: /gamemode sp
-[21:21:45] [Server thread/INFO]: Pato_con_flow issued server command: /ping
-[21:21:55] [Server thread/INFO]: Pato_con_flow issued server command: /gamemode survival
-[21:22:46] [Server thread/INFO]: Pato_con_flow lost connection: Disconnected
-[21:22:46] [Server thread/INFO]: Pato_con_flow left the game
-[21:25:02] [Server thread/INFO]: CAMEXS has made the advancement [Stone Age]
-[21:25:24] [Async Chat Thread - #5/INFO]: <CAMEXS> \0
-[21:25:43] [Server thread/INFO]: [Server] hola
-[21:25:43] [Server thread/INFO]: CAMEXS has made the advancement [Getting an Upgrade]
-[21:25:53] [Async Chat Thread - #5/INFO]: <CAMEXS> xd
-[21:26:39] [User Authenticator #6/INFO]: UUID of player Pato_con_flow is 9cbff30d-e6f3-3a59-9267-baae0b1b89cc
-[21:26:39] [Server thread/INFO]: Pato_con_flow joined the game
-[21:26:39] [Server thread/INFO]: Pato_con_flow[/127.67.59.64:60049] logged in with entity id 7035 at ([world]43.84735622973461, 30.0, 178.32612331526053)
-[21:27:07] [Server thread/INFO]: Jotadream18 has made the advancement [Not Today, Thank You]
-[21:27:26] [Server thread/INFO]: Pato_con_flow issued server command: /gamemode c
-[21:28:38] [Server thread/INFO]: Pato_con_flow issued server command: /gamemode s
-[21:28:45] [Server thread/INFO]: Pato_con_flow lost connection: Disconnected
-[21:28:45] [Server thread/INFO]: Pato_con_flow left the game
-[21:28:48] [User Authenticator #7/INFO]: UUID of player Pato_con_flow is 9cbff30d-e6f3-3a59-9267-baae0b1b89cc
-[21:28:48] [Server thread/INFO]: Pato_con_flow joined the game
-[21:28:48] [Server thread/INFO]: Pato_con_flow[/127.67.59.64:56515] logged in with entity id 7795 at ([world]22.871022420408735, 29.0, 169.93571905900313)
-[21:28:52] [Server thread/INFO]: Pato_con_flow issued server command: /vanish
-[21:28:54] [Server thread/INFO]: Pato_con_flow issued server command: /vanish
-[21:29:04] [Server thread/INFO]: Pato_con_flow issued server command: /give Pato_con_flow boat
-[21:29:07] [Server thread/INFO]: Pato_con_flow issued server command: /give Pato_con_flow minecraft:acacia_boat
-[21:29:07] [Server thread/INFO]: [Pato_con_flow: Gave 1 [Acacia Boat] to Pato_con_flow]
-[21:29:08] [Server thread/INFO]: Pato_con_flow lost connection: Disconnected
-[21:29:08] [Server thread/INFO]: Pato_con_flow left the game
-[21:29:10] [User Authenticator #7/INFO]: UUID of player Pato_con_flow is 9cbff30d-e6f3-3a59-9267-baae0b1b89cc
-[21:29:10] [Server thread/INFO]: Pato_con_flow joined the game
-[21:29:10] [Server thread/INFO]: Pato_con_flow[/127.67.59.64:53969] logged in with entity id 7946 at ([world]32.197563922041354, 31.0, 176.7519249830146)
-[21:29:42] [Async Chat Thread - #6/INFO]: <Pato_con_flow> se va a relodear el sv solo tienen que volver a logear
-[21:29:45] [Server thread/INFO]: Pato_con_flow issued server command: /reload confirm
-[21:29:45] [Server thread/INFO]: Pato_con_flow: Please note that this command is not supported and may cause issues when using some plugins.
-[21:29:45] [Server thread/INFO]: Pato_con_flow: If you encounter any issues please use the /stop command to restart your server.
-[21:29:45] [Server thread/INFO]: Debug logging is disabled
-[21:29:45] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[21:29:45] [Server thread/INFO]: Using 4 threads for Netty based IO
-[21:29:45] [Server thread/INFO]: [PlayerControl] Disabling PlayerControl v1.7.4
-[21:29:45] [Server thread/INFO]: [PlayerControl] Has been disabled! Version: 1.7.4
-[21:29:45] [Server thread/INFO]: [NametagEdit] Disabling NametagEdit v4.5.23
-[21:29:45] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.1
-[21:29:45] [Server thread/INFO]: [QStaffMode] Disabling QStaffMode v1.3.6
-[21:29:45] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
-[21:29:45] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.3.0
-[21:29:45] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
-[21:29:45] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
-[21:29:45] [Server thread/INFO]: [PingPlayer] Disabling PingPlayer v1.3.3
-[21:29:45] [Server thread/INFO]: [PingPlayer] PingPlayer v1.3.3 disabled.
-[21:29:45] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.152
-[21:29:45] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
-[21:29:45] [Server thread/INFO]: [LuckPerms] Closing storage...
-[21:29:45] [Server thread/INFO]: [LuckPerms] Goodbye!
-[21:29:45] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
-[21:29:45] [Server thread/INFO]: Loaded 7 recipes
-[21:29:45] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
-[21:29:46] [Server thread/INFO]: Loaded 7 recipes
-[21:29:46] [Server thread/WARN]: Legacy plugin PingPlayer v1.3.3 does not specify an api-version.
-[21:29:46] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.4.152
-[21:29:46] [Server thread/INFO]: [PingPlayer] Loading PingPlayer v1.3.3
-[21:29:46] [Server thread/INFO]: [LoginSecurity] Loading LoginSecurity v3.3.0
-[21:29:46] [Server thread/INFO]: [PlaceholderAPI] Loading PlaceholderAPI v2.11.6
-[21:29:46] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v15.5.1
-[21:29:46] [Server thread/INFO]: [NametagEdit] Loading NametagEdit v4.5.23
-[21:29:46] [Server thread/INFO]: [PlayerControl] Loading PlayerControl v1.7.4
-[21:29:46] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[21:29:46] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.152
-[21:29:46] [Server thread/INFO]:         __    
-[21:29:46] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.152
-[21:29:46] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[21:29:46] [Server thread/INFO]: 
-[21:29:46] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[21:29:47] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[21:29:47] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[21:29:47] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[21:29:47] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 807ms)
-[21:29:47] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.1
-[21:29:47] [Server thread/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mSkinsRestorer was already loaded in this JVM. You must've used a plugin like PlugMan to reload it. This is not supported and will cause issues with the plugin! Please restart your server to reload the plugin properly.[0;39m
-[21:29:47] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1mYou must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.[0;39m
-[21:29:47] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.16.5[32;1m.[0;39m
-[21:29:48] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mUsing paper join listener![0;39m
-[21:29:48] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: skinsrestorer [15.5.1]
-[21:29:48] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mPlaceholderAPI expansion registered![0;39m
-[21:29:48] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mYou are running an outdated Java version, please update it to at least Java 21 (your version is 11).[0;39m
-[21:29:48] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mSkinsRestorer no longer officially supports this version of Java, you are currently using an unsupported compatibility build.[0;39m
-[21:29:48] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mYou can still use the plugin, but you may encounter issues that are not present in newer versions of Java.[0;39m
-[21:29:48] [Server thread/INFO]: [PingPlayer] Enabling PingPlayer v1.3.3*
-[21:29:48] [Server thread/INFO]: [PingPlayer] Detected Minecraft version 1.16+, using new ping method.
-[21:29:48] [Server thread/INFO]: [PingPlayer] PingPlayer v1.3.3 enabled.
-[21:29:48] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.3.0
-[21:29:48] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
-[21:29:48] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
-[21:29:48] [Server thread/INFO]: [LoginSecurity] Registering commands...
-[21:29:48] [Server thread/INFO]: [LoginSecurity] Registering listeners...
-[21:29:48] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
-[21:29:48] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
-[21:29:48] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
-[21:29:48] [Server thread/INFO]: [NametagEdit] Enabling NametagEdit v4.5.23
-[21:29:48] [Server thread/INFO]: [NametagEdit] Successfully loaded using bukkit version: v1_16_R3
-[21:29:48] [Server thread/INFO]: [NametagEdit] Found LuckPerms! Hooking in.
-[21:29:48] [Server thread/INFO]: [PlayerControl] Enabling PlayerControl v1.7.4
-[21:29:48] [Server thread/INFO]: [PlayerControl] Has been enabled! Version: 1.7.4
-[21:29:48] [Server thread/INFO]: [PlayerControl] Thanks for using my plugin!  ~Ajneb97
-[21:29:48] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
-[21:29:48] [Server thread/INFO]: Pato_con_flow: Reload complete.
-[21:29:48] [Server thread/INFO]: Timings Reset
-[21:29:48] [Server thread/INFO]: 0 placeholder hook(s) registered!
-[21:29:48] [Craft Scheduler Thread - 38/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
-[21:29:48] [Craft Scheduler Thread - 38/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
-[21:29:48] [Craft Scheduler Thread - 38/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
-[21:29:48] [Craft Scheduler Thread - 38/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m
-[21:29:48] [Craft Scheduler Thread - 38/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m
-[21:29:48] [Craft Scheduler Thread - 38/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
-[21:29:48] [Craft Scheduler Thread - 38/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
-[21:29:48] [Craft Scheduler Thread - 38/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.5.1[0;39m
-[21:29:48] [Craft Scheduler Thread - 38/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1md5d8613[0;39m
-[21:29:48] [Craft Scheduler Thread - 38/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m
-[21:29:48] [Craft Scheduler Thread - 38/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
-[21:29:48] [Craft Scheduler Thread - 38/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mDo you have issues? Read our troubleshooting guide: [33;1mhttps://skinsrestorer.net/docs/troubleshooting[0;39m
-[21:29:48] [Craft Scheduler Thread - 38/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer? Consider donating: [33;1mhttps://skinsrestorer.net/donate[0;39m
-[21:29:58] [Server thread/INFO]: CAMEXS issued server command: /msg Pato_con_flow q es eso de acacia
-[21:30:01] [Server thread/INFO]: Pato_con_flow issued server command: /gamemode c
-[21:30:04] [Server thread/INFO]: Pato_con_flow issued server command: /gamemode creative
-[21:30:04] [Server thread/INFO]: [Pato_con_flow: Set own game mode to Creative Mode]
-[21:30:12] [Server thread/INFO]: CAMEXS issued server command: /msg Pato_con_flow q es eso de acacia
-[21:30:31] [Server thread/INFO]: Pato_con_flow issued server command: /msg CAMEXS no ve que el plugin de staff me jodia los items
-[21:30:40] [Server thread/INFO]: Pato_con_flow issued server command: /msg CAMEXS y estaba probando si me los quitaba
-[21:30:45] [Server thread/INFO]: CAMEXS issued server command: /msg Pato_con_flow aaaa okok
-[21:30:50] [Server thread/INFO]: Pato_con_flow issued server command: /msg CAMEXS porque cada vez que me salia perdia las cosas
-[21:30:56] [Async Chat Thread - #7/INFO]: <CAMEXS> jotaa
-[21:30:58] [Async Chat Thread - #7/INFO]: <Jotadream18> dime
-[21:31:16] [Async Chat Thread - #7/INFO]: <CAMEXS> van a dejar su team de 3?
-[21:32:04] [Async Chat Thread - #7/INFO]: <Jotadream18> creo q si
-[21:32:11] [Server thread/INFO]: Pato_con_flow issued server command: /gamemode survival
-[21:32:11] [Server thread/INFO]: [Pato_con_flow: Set own game mode to Survival Mode]
-[21:32:14] [Async Chat Thread - #7/INFO]: <CAMEXS> aaa okok
-[21:34:55] [Server thread/INFO]: CAMEXS has made the advancement [Sweet Dreams]
-[21:35:24] [Async Chat Thread - #8/INFO]: <CAMEXS> no me digan q todos tienen q dormir
-[21:35:30] [Async Chat Thread - #8/INFO]: <Jotadream18> cambien eso
-[21:35:34] [Async Chat Thread - #8/INFO]: <CAMEXS> toca
-[21:35:37] [Async Chat Thread - #8/INFO]: <Jotadream18> con el /gamerule
-[21:36:01] [Server thread/INFO]: CAMEXS issued server command: /msg p
-[21:36:11] [Server thread/INFO]: CAMEXS issued server command: /msg Pato_con_flow cambia eso pe
-[21:36:34] [Server thread/INFO]: Pato_con_flow issued server command: /msg camexs pues que mas estoy haciendo bruh
-[21:36:40] [Server thread/INFO]: CAMEXS issued server command: /msg Pato_con_flow cambia eso pe
-[21:36:46] [Server thread/INFO]: CAMEXS issued server command: /msg Pato_con_flow xdd
-[21:38:36] [Server thread/INFO]: Pato_con_flow issued server command: /msg camexs no se puede
-[21:38:44] [Server thread/INFO]: Pato_con_flow issued server command: /msg camexs supongo que es otra version
-[21:38:54] [Server thread/INFO]: CAMEXS issued server command: /msg Pato_con_flow con el gamerule?
-[21:39:00] [Server thread/INFO]: Pato_con_flow issued server command: /msg camexs aja
-[21:39:04] [Async Chat Thread - #9/INFO]: <CAMEXS> f
-[21:39:08] [Async Chat Thread - #9/INFO]: <CAMEXS> toco dormir
-[21:39:12] [Async Chat Thread - #9/INFO]: <CAMEXS> todos
-[21:39:22] [Async Chat Thread - #9/INFO]: <CAMEXS> zzzZZZzZzzzZzzzz
-[21:40:14] [Async Chat Thread - #9/INFO]: <CAMEXS> no tienen cama?
-[21:40:16] [Server thread/INFO]: Pato_con_flow lost connection: Disconnected
-[21:40:16] [Server thread/INFO]: Pato_con_flow left the game
-[21:40:18] [User Authenticator #8/INFO]: UUID of player Pato_con_flow is 9cbff30d-e6f3-3a59-9267-baae0b1b89cc
-[21:40:18] [Server thread/INFO]: Pato_con_flow joined the game
-[21:40:18] [Server thread/INFO]: Pato_con_flow[/127.67.59.64:35589] logged in with entity id 11663 at ([world]64.42232340151536, 32.0, 199.8092057841532)
-[21:40:22] [Async Chat Thread - #9/INFO]: <Pato_con_flow> ando en mina
-[21:40:27] [Async Chat Thread - #9/INFO]: <CAMEXS> fac
-[21:40:32] [Async Chat Thread - #9/INFO]: <Jotadream18> yo tengo
-[21:40:37] [Server thread/INFO]: Jotadream18 has made the advancement [Sweet Dreams]
-[21:40:38] [Async Chat Thread - #9/INFO]: <Pato_con_flow> pues me salgo yo y duermen
-[21:40:40] [Server thread/INFO]: Pato_con_flow lost connection: Disconnected
-[21:40:40] [Server thread/INFO]: Pato_con_flow left the game
-[21:40:46] [Async Chat Thread - #9/INFO]: <Jotadream18> estoy durmiendo
-[21:40:49] [Async Chat Thread - #9/INFO]: <Jotadream18> ya
-[21:40:52] [Async Chat Thread - #9/INFO]: <CAMEXS> lito
-[21:41:08] [User Authenticator #8/INFO]: UUID of player Pato_con_flow is 9cbff30d-e6f3-3a59-9267-baae0b1b89cc
-[21:41:08] [Server thread/INFO]: Pato_con_flow joined the game
-[21:41:08] [Server thread/INFO]: Pato_con_flow[/127.67.59.64:51369] logged in with entity id 11855 at ([world]64.17257586680554, 32.0, 202.39101667290498)
-[21:41:13] [Async Chat Thread - #9/INFO]: <Pato_con_flow> ya?
-[21:41:16] [Async Chat Thread - #9/INFO]: <CAMEXS> si
-[21:43:47] [Server thread/INFO]: Pato_con_flow issued server command: /msg camexs ya esta buscando aldea o que haces?
-[21:44:03] [Server thread/INFO]: CAMEXS issued server command: /msg Pato_con_flow si eso hago
-[21:44:06] [Async Chat Thread - #10/INFO]: <Pato_con_flow> okas
-[21:44:16] [Async Chat Thread - #10/INFO]: <Pato_con_flow> yo ya estoy consiguiendo hierro pa el tema
-[21:44:22] [Async Chat Thread - #10/INFO]: <CAMEXS> eso eso
-[21:44:27] [Async Chat Thread - #10/INFO]: <CAMEXS> miren las reglas
-[21:44:41] [Async Chat Thread - #10/INFO]: <CAMEXS> no se puede sar items a personas q no sean del team
-[21:44:45] [Async Chat Thread - #10/INFO]: <CAMEXS> dar*
-[21:44:59] [Async Chat Thread - #10/INFO]: <Pato_con_flow> granjas comunitarias?
-[21:45:07] [Async Chat Thread - #10/INFO]: <CAMEXS> no*
-[21:45:11] [Async Chat Thread - #10/INFO]: <Pato_con_flow> por
-[21:45:17] [Async Chat Thread - #10/INFO]: <Pato_con_flow> es un server comunitario xd
-[21:45:20] [Async Chat Thread - #10/INFO]: <CAMEXS> pa eso son los team we
-[21:45:29] [Async Chat Thread - #10/INFO]: <Pato_con_flow> bruh
-[21:45:32] [Async Chat Thread - #10/INFO]: <CAMEXS> ya luego lo vendes en las tienda
-[21:45:40] [Async Chat Thread - #10/INFO]: <Jotadream18> y si uso la granja sin permiso? por casualidad
-[21:45:47] [Async Chat Thread - #10/INFO]: <CAMEXS> bannn
-[21:45:52] [Async Chat Thread - #10/INFO]: <Jotadream18> xd
-[21:47:27] [Server thread/INFO]: CAMEXS issued server command: /msg Pato_con_flow las baces tiene un limite del 00 a ellas?
-[21:51:48] [Server thread/INFO]: Pato_con_flow issued server command: /msg camexs como asi
-[21:52:15] [Server thread/INFO]: CAMEXS issued server command: /msg Pato_con_flow digamos q estamos en 200 200 se puede hacer una bace ahi?
-[21:52:26] [Server thread/INFO]: CAMEXS issued server command: /msg Pato_con_flow o es muy cerca del 00
-[21:52:27] [Server thread/INFO]: Pato_con_flow issued server command: /msg camexs nah no hagan eso
-[21:53:13] [Async Chat Thread - #11/INFO]: <Jotadream18> zzz
-[21:53:15] [Server thread/INFO]: Pato_con_flow lost connection: Disconnected
-[21:53:15] [Server thread/INFO]: Pato_con_flow left the game
-[21:53:20] [Async Chat Thread - #11/INFO]: <CAMEXS> pera
-[21:53:25] [User Authenticator #9/INFO]: UUID of player Pato_con_flow is 9cbff30d-e6f3-3a59-9267-baae0b1b89cc
-[21:53:25] [Server thread/INFO]: Pato_con_flow joined the game
-[21:53:25] [Server thread/INFO]: Pato_con_flow[/127.67.59.64:42147] logged in with entity id 21909 at ([world]245.0229444798981, 78.0, 335.97292366512596)
-[21:53:36] [Async Chat Thread - #11/INFO]: <CAMEXS> ya zzz
-[21:53:38] [Async Chat Thread - #11/INFO]: <Jotadream18> zzzz
-[21:53:39] [Server thread/INFO]: Pato_con_flow lost connection: Disconnected
-[21:53:39] [Server thread/INFO]: Pato_con_flow left the game
-[21:53:46] [User Authenticator #9/INFO]: UUID of player Pato_con_flow is 9cbff30d-e6f3-3a59-9267-baae0b1b89cc
-[21:53:46] [Server thread/INFO]: Pato_con_flow joined the game
-[21:53:46] [Server thread/INFO]: Pato_con_flow[/127.67.59.64:58639] logged in with entity id 22054 at ([world]234.65260914436146, 76.0, 361.9160292195123)
-[21:53:48] [Async Chat Thread - #11/INFO]: <Jotadream18> pera
-[21:53:53] [Async Chat Thread - #11/INFO]: <Pato_con_flow> AAAAAA
-[21:53:58] [Async Chat Thread - #11/INFO]: <Jotadream18> ya
-[21:53:58] [Async Chat Thread - #11/INFO]: <CAMEXS> time set y yaaaa
-[21:53:59] [Async Chat Thread - #11/INFO]: <Jotadream18> ya
-[21:53:59] [Async Chat Thread - #11/INFO]: <Jotadream18> ya
-[21:54:01] [Async Chat Thread - #11/INFO]: <Jotadream18> ya
-[21:54:03] [Async Chat Thread - #11/INFO]: <Jotadream18> duermen
-[21:54:04] [Server thread/INFO]: Pato_con_flow lost connection: Disconnected
-[21:54:04] [Server thread/INFO]: Pato_con_flow left the game
-[21:54:47] [User Authenticator #10/INFO]: UUID of player Pato_con_flow is 9cbff30d-e6f3-3a59-9267-baae0b1b89cc
-[21:54:47] [Server thread/INFO]: Pato_con_flow joined the game
-[21:54:47] [Server thread/INFO]: Pato_con_flow[/127.67.59.64:34883] logged in with entity id 22995 at ([world]257.95678814353835, 76.0, 331.19324524174016)
-[21:56:45] [Server thread/INFO]: Pato_con_flow issued server command: /msg camexs como va por aih
-[21:56:52] [Server thread/INFO]: Pato_con_flow issued server command: /msg camexs ya ando full iron
-[21:56:59] [Async Chat Thread - #12/INFO]: <CAMEXS> no encuentro nada :c
-[21:57:03] [Async Chat Thread - #12/INFO]: <Jotadream18> x2
-[21:57:09] [Async Chat Thread - #12/INFO]: <CAMEXS> xdw
-[21:58:56] [Server thread/INFO]: Pato_con_flow issued server command: /msg camexs ole usted pa donde esta yendo sur norte o aonda
-[21:58:58] [Server thread/INFO]: Pato_con_flow issued server command: /msg camexs ole usted pa donde esta yendo sur norte o aonde
-[21:59:53] [Server thread/INFO]: CAMEXS issued server command: /msg Pato_con_flow -1000 1400 no se q sea eso
-[22:00:08] [Server thread/INFO]: Pato_con_flow issued server command: /msg camexs bruh
-[22:00:14] [Server thread/INFO]: CAMEXS issued server command: /msg Pato_con_flow el verde q es?
-[22:00:28] [Server thread/INFO]: Pato_con_flow issued server command: /msg camexs y
-[22:00:32] [Server thread/INFO]: Pato_con_flow issued server command: /msg camexs altura
-[22:00:36] [Server thread/WARN]: Boat (vehicle of CAMEXS) moved wrongly! 1.418701171875
-[22:00:36] [Server thread/WARN]: Boat (vehicle of CAMEXS) moved wrongly! 1.418701171875
-[22:00:36] [Server thread/WARN]: Boat (vehicle of CAMEXS) moved wrongly! 1.418701171875
-[22:00:36] [Server thread/WARN]: Boat (vehicle of CAMEXS) moved wrongly! 1.418701171875
-[22:00:36] [Server thread/WARN]: Boat (vehicle of CAMEXS) moved wrongly! 1.418701171875
-[22:00:36] [Server thread/WARN]: Boat (vehicle of CAMEXS) moved wrongly! 1.418701171875
-[22:01:11] [Server thread/INFO]: CAMEXS issued server command: /msg Pato_con_flow cuando llgue a una aldea le paso cords
-[22:03:55] [Server thread/INFO]: Jotadream18 has made the advancement [A Seedy Place]
-[22:04:50] [Server thread/INFO]: Pato_con_flow has made the advancement [Sweet Dreams]
-[22:04:55] [Async Chat Thread - #13/INFO]: <Pato_con_flow> zzz
-[22:05:03] [Async Chat Thread - #13/INFO]: <CAMEXS> zzz
-[22:05:15] [Async Chat Thread - #13/INFO]: <Pato_con_flow> ZZZZZZZZZZZZZZZZZZ
-[22:06:16] [Server thread/INFO]: Villager EntityVillager['Nitwit'/27289, uuid='b42f7b4d-91a4-4d76-b510-376bc964cc5d', l='ServerLevel[world]', x=-3246.48, y=62.04, z=535.70, cx=-203, cz=33, tl=7678, v=true, d=false] died, message: 'Nitwit drowned'
-[22:08:23] [Server thread/INFO]: Pato_con_flow issued server command: /tps
-[22:14:01] [Server thread/INFO]: CAMEXS has made the advancement [Acquire Hardware]
-[22:15:05] [Server thread/INFO]: CAMEXS has made the advancement [Suit Up]
-[22:16:35] [Server thread/WARN]: Boat (vehicle of CAMEXS) moved wrongly! 0.27641597083720626
-[22:16:35] [Server thread/WARN]: Boat (vehicle of CAMEXS) moved wrongly! 0.2511730176045148
-[22:16:35] [Server thread/WARN]: Boat (vehicle of CAMEXS) moved wrongly! 0.27068824946030645
-[22:16:56] [Async Chat Thread - #14/INFO]: <CAMEXS> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[22:17:04] [Async Chat Thread - #14/INFO]: <Pato_con_flow> zzzz
-[22:17:09] [Async Chat Thread - #14/INFO]: <CAMEXS> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[22:17:21] [Async Chat Thread - #14/INFO]: <Pato_con_flow> Zzzz
-[22:17:22] [Async Chat Thread - #14/INFO]: <CAMEXS> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[22:17:27] [Async Chat Thread - #14/INFO]: <Jotadream18> pera
-[22:17:33] [Async Chat Thread - #14/INFO]: <CAMEXS> ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
-[22:18:57] [Server thread/INFO]: Villager EntityVillager['Nitwit'/27264, uuid='c5b0fc37-2e50-45a8-bcaa-039c046d7a27', l='ServerLevel[world]', x=-3234.30, y=62.94, z=566.51, cx=-203, cz=35, tl=22945, v=true, d=false] died, message: 'Nitwit burned to death'
-[22:19:29] [Server thread/INFO]: Jotadream18 lost connection: Disconnected
-[22:19:29] [Server thread/INFO]: Jotadream18 left the game
-[22:19:46] [Server thread/INFO]: Pato_con_flow lost connection: Timed out
-[22:19:46] [Server thread/INFO]: Pato_con_flow left the game
-[22:19:54] [User Authenticator #11/INFO]: UUID of player Pato_con_flow is 9cbff30d-e6f3-3a59-9267-baae0b1b89cc
-[22:19:54] [Server thread/INFO]: Pato_con_flow joined the game
-[22:19:54] [Server thread/INFO]: Pato_con_flow[/127.67.59.64:58827] logged in with entity id 37267 at ([world]348.6458669851109, 68.0, 1525.5223487557626)
-[22:20:32] [User Authenticator #11/INFO]: UUID of player Jotadream18 is 294b1528-ef6e-38d5-9794-dabc61f71d99
-[22:20:32] [Server thread/INFO]: Jotadream18 joined the game
-[22:20:32] [Server thread/INFO]: Jotadream18[/127.193.87.50:45877] logged in with entity id 37434 at ([world]-3248.2551801635614, 63.0, 544.2634165798538)
-[22:22:56] [Server thread/INFO]: Pato_con_flow has made the advancement [Ice Bucket Challenge]
-[22:23:02] [Async Chat Thread - #15/INFO]: <CAMEXS> wow
-[22:27:53] [Server thread/INFO]: Jotadream18 has made the advancement [The Parrots and the Bats]
-[22:28:10] [Server thread/WARN]: Pato_con_flow moved too quickly! -0.4477450104471927,-2.5813359922251635,-12.105092340487772
-[22:28:45] [Async Chat Thread - #16/INFO]: <Jotadream18> z
-[22:28:46] [Async Chat Thread - #16/INFO]: <Jotadream18> z
-[22:28:46] [Async Chat Thread - #16/INFO]: <Jotadream18> z
-[22:28:46] [Async Chat Thread - #16/INFO]: <Jotadream18> z
-[22:28:46] [Async Chat Thread - #16/INFO]: <Jotadream18> z
-[22:28:46] [Async Chat Thread - #16/INFO]: <Jotadream18> z
-[22:28:46] [Async Chat Thread - #16/INFO]: <Jotadream18> z
-[22:28:55] [Async Chat Thread - #16/INFO]: <CAMEXS> zz
-[22:29:40] [Server thread/INFO]: CAMEXS has made the advancement [Isn't It Iron Pick]
-[22:33:33] [Server thread/INFO]: CAMEXS issued server command: /msg Pato_con_flow encontre un lugar bonito para vivir pero no aldea
-[22:34:13] [Server thread/INFO]: Pato_con_flow lost connection: Disconnected
-[22:34:13] [Server thread/INFO]: Pato_con_flow left the game
-[22:34:23] [Server thread/INFO]: CAMEXS issued server command: /msg Pato_con_flow hacemos la bace aqui o seguimos buscando
-[22:34:26] [Server thread/INFO]: CAMEXS issued server command: /msg Pato_con_flow hacemos la bace aqui o seguimos buscando
-[22:36:46] [Server thread/INFO]: You whisper to CAMEXS: a?
-[22:36:53] [Server thread/INFO]: You whisper to CAMEXS: ole soy yo
-[22:37:08] [Server thread/INFO]: You whisper to CAMEXS: voy a hacer unas cosas en el mine
-[22:37:19] [Async Chat Thread - #17/INFO]: <CAMEXS> ok
-[22:39:50] [Async Chat Thread - #18/INFO]: <Jotadream18> zzzz
-[22:39:55] [Async Chat Thread - #18/INFO]: <CAMEXS> zz
-[22:47:44] [Server thread/INFO]: CAMEXS issued server command: /gamemode spectator
-[22:47:44] [Server thread/INFO]: [CAMEXS: Set own game mode to Spectator Mode]
-[22:48:59] [Server thread/INFO]: CAMEXS issued server command: /gamemode survival
-[22:48:59] [Server thread/INFO]: [CAMEXS: Set own game mode to Survival Mode]
-[22:50:37] [Async Chat Thread - #19/INFO]: <Jotadream18> seta seta seta
-[22:50:42] [Async Chat Thread - #19/INFO]: <CAMEXS> xddd
-[22:50:55] [Async Chat Thread - #19/INFO]: <Jotadream18> zzz
-[22:51:36] [Async Chat Thread - #19/INFO]: <Jotadream18> zzz
-[22:51:45] [Async Chat Thread - #19/INFO]: <CAMEXS> y
+[18:15:31] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[18:15:32] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[18:15:32] [Worker-Main-1/INFO]: Loaded 7 recipes
+[18:15:33] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[18:15:33] [Server thread/INFO]: Loading properties
+[18:15:33] [Server thread/INFO]: This server is running Paper version git-Paper-794 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
+[18:15:33] [Server thread/INFO]: Debug logging is disabled
+[18:15:33] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[18:15:33] [Server thread/INFO]: Using 4 threads for Netty based IO
+[18:15:33] [Server thread/INFO]: Default game type: SURVIVAL
+[18:15:33] [Server thread/INFO]: Generating keypair
+[18:15:33] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:15:33] [Server thread/INFO]: Using epoll channel type
+[18:15:34] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[18:15:37] [Server thread/WARN]: Legacy plugin PingPlayer v1.3.3 does not specify an api-version.
+[18:15:37] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.4.152
+[18:15:37] [Server thread/INFO]: [PingPlayer] Loading PingPlayer v1.3.3
+[18:15:37] [Server thread/INFO]: [LoginSecurity] Loading LoginSecurity v3.3.0
+[18:15:37] [Server thread/INFO]: [PlaceholderAPI] Loading PlaceholderAPI v2.11.6
+[18:15:37] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v15.5.1
+[18:15:37] [Server thread/INFO]: [NametagEdit] Loading NametagEdit v4.5.23
+[18:15:37] [Server thread/INFO]: [PlayerControl] Loading PlayerControl v1.7.4
+[18:15:37] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:15:37] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.152
+[18:15:37] [Server thread/INFO]:         __    
+[18:15:37] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.152
+[18:15:37] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[18:15:37] [Server thread/INFO]: 
+[18:15:37] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[18:15:38] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[18:15:38] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[18:15:38] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[18:15:38] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1146ms)
+[18:15:38] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.1
+[18:15:39] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1mYou must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.[0;39m
+[18:15:39] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.16.5[32;1m.[0;39m
+[18:15:39] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mUsing paper join listener![0;39m
+[18:15:39] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: skinsrestorer [15.5.1]
+[18:15:39] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mPlaceholderAPI expansion registered![0;39m
+[18:15:39] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mYou are running an outdated Java version, please update it to at least Java 21 (your version is 11).[0;39m
+[18:15:39] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mSkinsRestorer no longer officially supports this version of Java, you are currently using an unsupported compatibility build.[0;39m
+[18:15:39] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mYou can still use the plugin, but you may encounter issues that are not present in newer versions of Java.[0;39m
+[18:15:39] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18:15:39] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[18:15:39] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18:15:39] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[18:15:39] [Server thread/INFO]: Preparing level "world"
+[18:15:39] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:15:40] [Server thread/INFO]: Preparing spawn area: 0%
+[18:15:40] [Server thread/INFO]: Time elapsed: 466 ms
+[18:15:40] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[18:15:40] [Server thread/INFO]: Time elapsed: 175 ms
+[18:15:40] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[18:15:40] [Server thread/INFO]: Time elapsed: 218 ms
+[18:15:40] [Server thread/INFO]: [PingPlayer] Enabling PingPlayer v1.3.3*
+[18:15:40] [Server thread/INFO]: [PingPlayer] Detected Minecraft version 1.16+, using new ping method.
+[18:15:40] [Server thread/INFO]: [PingPlayer] PingPlayer v1.3.3 enabled.
+[18:15:40] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.3.0
+[18:15:40] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
+[18:15:40] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
+[18:15:40] [Server thread/INFO]: [LoginSecurity] Registering commands...
+[18:15:40] [Server thread/INFO]: [LoginSecurity] Registering listeners...
+[18:15:41] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
+[18:15:41] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
+[18:15:41] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[18:15:41] [Server thread/INFO]: [NametagEdit] Enabling NametagEdit v4.5.23
+[18:15:41] [Server thread/INFO]: [NametagEdit] Successfully loaded using bukkit version: v1_16_R3
+[18:15:41] [Server thread/INFO]: [NametagEdit] Found LuckPerms! Hooking in.
+[18:15:41] [Server thread/INFO]: [PlayerControl] Enabling PlayerControl v1.7.4
+[18:15:41] [Server thread/INFO]: [PlayerControl] Has been enabled! Version: 1.7.4
+[18:15:41] [Server thread/INFO]: [PlayerControl] Thanks for using my plugin!  ~Ajneb97
+[18:15:41] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[18:15:41] [Server thread/INFO]: 0 placeholder hook(s) registered!
+[18:15:41] [Server thread/INFO]: Running delayed init tasks
+[18:15:41] [Server thread/INFO]: Done (8.261s)! For help, type "help"
+[18:15:41] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
+[18:15:41] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * WARNING - YOU ARE RUNNING AN OUTDATED VERSION OF JAVA.
+[18:15:41] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * PAPER WILL STOP BEING COMPATIBLE WITH THIS VERSION OF
+[18:15:41] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * JAVA WHEN MINECRAFT 1.17 IS RELEASED.
+[18:15:41] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[18:15:41] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Please update the version of Java you use to run Paper
+[18:15:41] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * to at least Java 16. When Paper for Minecraft 1.17 is
+[18:15:41] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * released support for versions of Java before 16 will
+[18:15:41] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * be dropped.
+[18:15:41] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[18:15:41] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Current Java version: 11.0.25
+[18:15:41] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *
+[18:15:41] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] * Check this forum post for more information: 
+[18:15:41] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] *   https://papermc.io/java16
+[18:15:41] [Server thread/WARN]: [io.papermc.paper.util.PaperJvmChecker] ************************************************************
+[18:15:41] [Server thread/INFO]: Timings Reset
+[18:15:41] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[18:15:41] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[18:15:41] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
+[18:15:41] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m
+[18:15:41] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m
+[18:15:41] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[18:15:41] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[18:15:41] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.5.1[0;39m
+[18:15:41] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1md5d8613[0;39m
+[18:15:41] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m
+[18:15:41] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[18:15:41] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mDo you have issues? Read our troubleshooting guide: [33;1mhttps://skinsrestorer.net/docs/troubleshooting[0;39m
+[18:15:41] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer? Consider donating: [33;1mhttps://skinsrestorer.net/donate[0;39m
+[18:18:54] [User Authenticator #1/INFO]: UUID of player Pato_con_flow is 9cbff30d-e6f3-3a59-9267-baae0b1b89cc
+[18:18:54] [Server thread/INFO]: Pato_con_flow joined the game
+[18:18:55] [Server thread/INFO]: Pato_con_flow[/127.67.59.64:44199] logged in with entity id 175 at ([world]1404.5336620192206, 63.0, 1029.806342662383)
+[18:20:25] [Server thread/INFO]: Pato_con_flow issued server command: /whitelist list}
+[18:20:26] [Server thread/INFO]: Pato_con_flow issued server command: /whitelist list
+[18:21:03] [User Authenticator #2/INFO]: UUID of player Zv_Belphegor is 58fe8129-f55c-3f3e-a739-acc942d7fafe
+[18:21:04] [Server thread/INFO]: Zv_Belphegor joined the game
+[18:21:04] [Server thread/INFO]: Zv_Belphegor[/127.67.59.64:49217] logged in with entity id 540 at ([world]23.5, 64.0, 193.5)
+[18:21:09] [Async Chat Thread - #0/INFO]: <Pato_con_flow> asdas
+[18:23:20] [User Authenticator #3/INFO]: UUID of player CAMEXS is 6a5aa9b0-9db8-3f65-ac39-9269c9e59fb3
+[18:23:20] [Server thread/INFO]: CAMEXS joined the game
+[18:23:20] [Server thread/INFO]: CAMEXS[/127.74.163.155:59371] logged in with entity id 1132 at ([world]1235.6203018457068, 79.10131520987476, 1092.8613298216608)
+[18:23:21] [Server thread/INFO]: Pato_con_flow issued server command: /tp Zv_Belphegor Pato_con_flow
+[18:23:21] [Server thread/INFO]: [Pato_con_flow: Teleported Zv_Belphegor to Pato_con_flow]
+[18:23:55] [Async Chat Thread - #1/INFO]: <CAMEXS> wenas
+[18:24:02] [Async Chat Thread - #1/INFO]: <Pato_con_flow> hola
+[18:24:10] [Async Chat Thread - #1/INFO]: <CAMEXS> dele rangos a duban
+[18:24:28] [Server thread/INFO]: Pato_con_flow issued server command: /lp user Zv_Belphegor parent set admin
+[18:24:28] [luckperms-command-executor/INFO]: [LP] LOG > (Pato_con_flow) [U] (zv_belphegor)
+[18:24:28] [luckperms-command-executor/INFO]: [LP] LOG > parent set admin
+[18:24:32] [Server thread/INFO]: Pato_con_flow issued server command: /op Zv_Belphegor
+[18:24:32] [Server thread/INFO]: [Pato_con_flow: Made Zv_Belphegor a server operator]
+[18:25:19] [Server thread/INFO]: Zv_Belphegor issued server command: /skin set Albraa
