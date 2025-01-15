@@ -1477,9 +1477,12 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2025-01-14 18:21:04 +0000",
+      "minecraft:mountains": "2025-01-15 08:30:48 +0000",
+      "minecraft:birch_forest": "2025-01-15 08:28:15 +0000",
       "minecraft:beach": "2025-01-14 18:26:03 +0000",
       "minecraft:river": "2025-01-14 19:51:38 +0000",
       "minecraft:lukewarm_ocean": "2025-01-15 05:12:49 +0000",
+      "minecraft:wooded_mountains": "2025-01-15 08:32:39 +0000",
       "minecraft:plains": "2025-01-14 18:23:22 +0000"
     },
     "done": false
