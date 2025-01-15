@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-01-15 05:11:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2025-01-14 18:35:48 +0000"
@@ -62,6 +68,12 @@
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2025-01-14 18:35:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-01-15 05:11:46 +0000"
     },
     "done": true
   },
@@ -377,6 +389,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-01-15 05:11:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-01-14 18:27:31 +0000"
@@ -521,6 +539,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-01-15 05:11:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_boots": "2025-01-14 18:25:55 +0000"
@@ -646,6 +670,7 @@
       "minecraft:forest": "2025-01-14 18:21:04 +0000",
       "minecraft:beach": "2025-01-14 18:26:03 +0000",
       "minecraft:river": "2025-01-14 19:51:38 +0000",
+      "minecraft:lukewarm_ocean": "2025-01-15 05:12:49 +0000",
       "minecraft:plains": "2025-01-14 18:23:22 +0000"
     },
     "done": false
@@ -872,6 +897,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-01-15 05:11:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-01-14 19:08:33 +0000"
@@ -892,7 +923,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:skeleton": "2025-01-14 19:08:49 +0000"
+      "minecraft:skeleton": "2025-01-14 19:08:49 +0000",
+      "minecraft:spider": "2025-01-15 05:11:45 +0000",
+      "minecraft:zombie": "2025-01-15 05:12:19 +0000"
     },
     "done": false
   },

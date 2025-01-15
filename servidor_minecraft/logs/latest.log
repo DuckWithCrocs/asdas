@@ -567,3 +567,19 @@ Caused by: java.lang.NullPointerException
 	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:159) ~[patched_1.16.5.jar:git-Paper-794]
 	... 18 more
 [04:49:36] [Server thread/INFO]: Pato_con_flow issued server command: /plugins
+[05:02:26] [Async Chat Thread - #1/INFO]: <Pato_con_flow> zzzz
+[05:02:44] [Server thread/INFO]: Pato_con_flow issued server command: /op list
+[05:02:44] [Server thread/INFO]: [Pato_con_flow: Made list a server operator]
+[05:02:54] [Server thread/INFO]: Pato_con_flow issued server command: /deop list
+[05:02:54] [Server thread/INFO]: [Pato_con_flow: Made list no longer a server operator]
+[05:08:07] [Server thread/INFO]: Pato_con_flow lost connection: Disconnected
+[05:08:07] [Server thread/INFO]: Pato_con_flow left the game
+[05:08:19] [User Authenticator #4/INFO]: UUID of player Pato_con_flow is 9cbff30d-e6f3-3a59-9267-baae0b1b89cc
+[05:08:19] [Server thread/INFO]: Pato_con_flow joined the game
+[05:08:19] [Server thread/INFO]: Pato_con_flow[/127.67.59.64:33987] logged in with entity id 6498 at ([world]1382.4734593586302, 64.9375, 1037.474547265445)
+[05:14:37] [Async Chat Thread - #2/INFO]: <Pato_con_flow> zzz
+[05:16:14] [Server thread/INFO]: Zv_Belphegor lost connection: Disconnected
+[05:16:14] [Server thread/INFO]: Zv_Belphegor left the game
+[05:16:18] [User Authenticator #5/INFO]: UUID of player Zv_Belphegor is 58fe8129-f55c-3f3e-a739-acc942d7fafe
+[05:16:18] [Server thread/INFO]: Zv_Belphegor joined the game
+[05:16:18] [Server thread/INFO]: Zv_Belphegor[/127.67.59.64:46499] logged in with entity id 7696 at ([world]1363.4706674025524, 32.0, 1049.180385730529)
