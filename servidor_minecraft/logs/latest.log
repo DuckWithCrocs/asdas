@@ -367,3 +367,203 @@ Caused by: java.lang.NullPointerException
 	... 18 more
 [04:34:59] [Server thread/INFO]: Zv_Belphegor has made the advancement [A Seedy Place]
 [04:38:21] [Async Chat Thread - #0/INFO]: <Zv_Belphegor> zz
+[04:48:29] [Server thread/INFO]: CONSOLE: Usage: /reload [permissions|commands|confirm]
+[04:48:45] [Server thread/INFO]: Pato_con_flow issued server command: /reload confirm
+[04:48:45] [Server thread/INFO]: Pato_con_flow: Please note that this command is not supported and may cause issues when using some plugins.
+[04:48:45] [Server thread/INFO]: Pato_con_flow: If you encounter any issues please use the /stop command to restart your server.
+[04:48:45] [Server thread/INFO]: Debug logging is disabled
+[04:48:45] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[04:48:45] [Server thread/INFO]: Using 4 threads for Netty based IO
+[04:48:45] [Server thread/INFO]: [PlayerControl] Disabling PlayerControl v1.7.4
+[04:48:45] [Server thread/INFO]: [PlayerControl] Has been disabled! Version: 1.7.4
+[04:48:45] [Server thread/INFO]: [NametagEdit] Disabling NametagEdit v4.5.23
+[04:48:45] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.5.1
+[04:48:45] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
+[04:48:45] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.3.0
+[04:48:45] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
+[04:48:45] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
+[04:48:45] [Server thread/INFO]: [SalC1Dupe] Disabling SalC1Dupe v1.0-SNAPSHOT
+[04:48:45] [Server thread/INFO]: [PingPlayer] Disabling PingPlayer v1.3.3
+[04:48:45] [Server thread/INFO]: [PingPlayer] PingPlayer v1.3.3 disabled.
+[04:48:45] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.152
+[04:48:45] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[04:48:45] [Server thread/INFO]: [LuckPerms] Closing storage...
+[04:48:45] [Server thread/INFO]: [LuckPerms] Goodbye!
+[04:48:45] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[04:48:45] [Server thread/INFO]: Loaded 7 recipes
+[04:48:46] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[04:48:46] [Server thread/INFO]: Loaded 7 recipes
+[04:48:46] [Server thread/WARN]: Legacy plugin PingPlayer v1.3.3 does not specify an api-version.
+[04:48:46] [Server thread/WARN]: Legacy plugin FrameDupe v1.6 does not specify an api-version.
+[04:48:46] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.4.152
+[04:48:46] [Server thread/INFO]: [PingPlayer] Loading PingPlayer v1.3.3
+[04:48:46] [Server thread/INFO]: [FrameDupe] Loading FrameDupe v1.6
+[04:48:46] [Server thread/INFO]: [LoginSecurity] Loading LoginSecurity v3.3.0
+[04:48:46] [Server thread/INFO]: [PlaceholderAPI] Loading PlaceholderAPI v2.11.6
+[04:48:46] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v15.5.1
+[04:48:46] [Server thread/INFO]: [NametagEdit] Loading NametagEdit v4.5.23
+[04:48:46] [Server thread/INFO]: [PlayerControl] Loading PlayerControl v1.7.4
+[04:48:46] [Server thread/INFO]: [StaffPlus] Loading StaffPlus v3.3.14.2
+[04:48:46] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: staffplus [3.3.14.2]
+[04:48:46] [Server thread/INFO]: Hooked into PlaceholderAPI 2.11.6
+[04:48:46] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[04:48:46] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.152
+[04:48:47] [Server thread/INFO]:         __    
+[04:48:47] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.152
+[04:48:47] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[04:48:47] [Server thread/INFO]: 
+[04:48:47] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[04:48:47] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[04:48:47] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[04:48:47] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[04:48:47] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 642ms)
+[04:48:47] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.5.1
+[04:48:47] [Server thread/ERROR]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mSkinsRestorer was already loaded in this JVM. You must've used a plugin like PlugMan to reload it. This is not supported and will cause issues with the plugin! Please restart your server to reload the plugin properly.[0;39m
+[04:48:47] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1mYou must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.[0;39m
+[04:48:48] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.16.5[32;1m.[0;39m
+[04:48:48] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mUsing paper join listener![0;39m
+[04:48:48] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: skinsrestorer [15.5.1]
+[04:48:48] [Server thread/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mPlaceholderAPI expansion registered![0;39m
+[04:48:48] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mYou are running an outdated Java version, please update it to at least Java 21 (your version is 11).[0;39m
+[04:48:48] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mSkinsRestorer no longer officially supports this version of Java, you are currently using an unsupported compatibility build.[0;39m
+[04:48:48] [Server thread/WARN]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mYou can still use the plugin, but you may encounter issues that are not present in newer versions of Java.[0;39m
+[04:48:48] [Server thread/INFO]: [PingPlayer] Enabling PingPlayer v1.3.3*
+[04:48:48] [Server thread/INFO]: [PingPlayer] Detected Minecraft version 1.16+, using new ping method.
+[04:48:48] [Server thread/INFO]: [PingPlayer] PingPlayer v1.3.3 enabled.
+[04:48:48] [Server thread/INFO]: [FrameDupe] Enabling FrameDupe v1.6*
+[04:48:48] [Server thread/INFO]: FrameDupe by MrRafter loaded successfully
+[04:48:48] [Server thread/INFO]: [LoginSecurity] Enabling LoginSecurity v3.3.0
+[04:48:48] [Server thread/INFO]: [LoginSecurity] Loading base translations from "en_us"
+[04:48:48] [Server thread/INFO]: [LoginSecurity] Loading specified translations from "en_us"
+[04:48:48] [Server thread/INFO]: [LoginSecurity] Registering commands...
+[04:48:48] [Server thread/INFO]: [LoginSecurity] Registering listeners...
+[04:48:48] [Server thread/INFO]: [LoginSecurity] Using 1.12+ map captcha renderer
+[04:48:48] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
+[04:48:48] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[04:48:48] [Server thread/INFO]: [NametagEdit] Enabling NametagEdit v4.5.23
+[04:48:48] [Server thread/INFO]: [NametagEdit] Successfully loaded using bukkit version: v1_16_R3
+[04:48:48] [Server thread/INFO]: [NametagEdit] Found LuckPerms! Hooking in.
+[04:48:48] [Server thread/INFO]: [PlayerControl] Enabling PlayerControl v1.7.4
+[04:48:48] [Server thread/INFO]: [PlayerControl] Has been enabled! Version: 1.7.4
+[04:48:48] [Server thread/INFO]: [PlayerControl] Thanks for using my plugin!  ~Ajneb97
+[04:48:48] [Server thread/INFO]: [StaffPlus] Enabling StaffPlus v3.3.14.2
+[04:48:48] [Server thread/INFO]: [Staff+] Version protocol set to 'v1_16_R3'.
+[04:48:48] [Server thread/ERROR]: Error occurred while enabling StaffPlus v3.3.14.2 (Is it up to date?)
+java.lang.NullPointerException: null
+	at net.shortninja.staffplus.server.data.Load.loadWarnings(Load.java:120) ~[?:?]
+	at net.shortninja.staffplus.server.data.Load.loadUser(Load.java:72) ~[?:?]
+	at net.shortninja.staffplus.server.data.Load.<init>(Load.java:39) ~[?:?]
+	at net.shortninja.staffplus.StaffPlus.start(StaffPlus.java:218) ~[?:?]
+	at net.shortninja.staffplus.StaffPlus.onEnable(StaffPlus.java:141) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:263) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:370) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:500) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.enablePlugin(CraftServer.java:518) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.enablePlugins(CraftServer.java:432) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.reload(CraftServer.java:965) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.Bukkit.reload(Bukkit.java:726) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:54) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:159) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.dispatchCommand(CraftServer.java:826) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.PlayerConnection.handleCommand(PlayerConnection.java:2185) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.PlayerConnection.c(PlayerConnection.java:2000) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.PlayerConnection.a(PlayerConnection.java:1953) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.PacketPlayInChat.a(PacketPlayInChat.java:49) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.PacketPlayInChat.a(PacketPlayInChat.java:7) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.PlayerConnectionUtils.lambda$ensureMainThread$1(PlayerConnectionUtils.java:35) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.TickTask.run(SourceFile:18) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.executeTask(IAsyncTaskHandler.java:136) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.executeNext(IAsyncTaskHandler.java:109) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.bb(MinecraftServer.java:1271) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.executeNext(MinecraftServer.java:1264) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.executeAll(IAsyncTaskHandler.java:95) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.a(MinecraftServer.java:1400) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1135) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:291) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[04:48:48] [Server thread/INFO]: [StaffPlus] Disabling StaffPlus v3.3.14.2
+[04:48:48] [Server thread/INFO]: [Staff+] Staff+ is now disabling!
+[04:48:48] [Server thread/ERROR]: Error occurred while disabling StaffPlus v3.3.14.2 (Is it up to date?)
+java.lang.NullPointerException: null
+	at net.shortninja.staffplus.player.attribute.mode.handler.VanishHandler.removeVanish(VanishHandler.java:44) ~[?:?]
+	at net.shortninja.staffplus.StaffPlus.stop(StaffPlus.java:417) ~[?:?]
+	at net.shortninja.staffplus.StaffPlus.onDisable(StaffPlus.java:171) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:265) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.plugin.java.JavaPluginLoader.disablePlugin(JavaPluginLoader.java:405) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:533) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:374) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:500) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.enablePlugin(CraftServer.java:518) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.enablePlugins(CraftServer.java:432) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.reload(CraftServer.java:965) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.Bukkit.reload(Bukkit.java:726) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:54) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:159) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.dispatchCommand(CraftServer.java:826) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.PlayerConnection.handleCommand(PlayerConnection.java:2185) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.PlayerConnection.c(PlayerConnection.java:2000) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.PlayerConnection.a(PlayerConnection.java:1953) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.PacketPlayInChat.a(PacketPlayInChat.java:49) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.PacketPlayInChat.a(PacketPlayInChat.java:7) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.PlayerConnectionUtils.lambda$ensureMainThread$1(PlayerConnectionUtils.java:35) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.TickTask.run(SourceFile:18) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.executeTask(IAsyncTaskHandler.java:136) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.executeNext(IAsyncTaskHandler.java:109) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.bb(MinecraftServer.java:1271) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.executeNext(MinecraftServer.java:1264) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.executeAll(IAsyncTaskHandler.java:95) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.a(MinecraftServer.java:1400) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1135) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:291) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+[04:48:48] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[04:48:48] [Server thread/INFO]: 0 placeholder hook(s) registered!
+[04:48:48] [Server thread/INFO]: Pato_con_flow: Reload complete.
+[04:48:48] [Server thread/INFO]: Timings Reset
+[04:48:48] [Craft Scheduler Thread - 25/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[04:48:48] [Craft Scheduler Thread - 25/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[04:48:48] [Craft Scheduler Thread - 25/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
+[04:48:48] [Craft Scheduler Thread - 25/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m
+[04:48:48] [Craft Scheduler Thread - 25/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m
+[04:48:48] [Craft Scheduler Thread - 25/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[04:48:48] [Craft Scheduler Thread - 25/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[04:48:48] [Craft Scheduler Thread - 25/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.5.1[0;39m
+[04:48:48] [Craft Scheduler Thread - 25/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1md5d8613[0;39m
+[04:48:48] [Craft Scheduler Thread - 25/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m
+[04:48:48] [Craft Scheduler Thread - 25/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[04:48:48] [Craft Scheduler Thread - 25/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mDo you have issues? Read our troubleshooting guide: [33;1mhttps://skinsrestorer.net/docs/troubleshooting[0;39m
+[04:48:48] [Craft Scheduler Thread - 25/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer? Consider donating: [33;1mhttps://skinsrestorer.net/donate[0;39m
+[04:48:57] [Server thread/INFO]: Pato_con_flow issued server command: /staff
+[04:48:57] [Server thread/ERROR]: null
+org.bukkit.command.CommandException: Unhandled exception executing 'staff' in net.shortninja.staffplus.server.command.cmd.mode.ModeCmd(staff)
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:169) ~[patched_1.16.5.jar:git-Paper-794]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.dispatchCommand(CraftServer.java:826) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.PlayerConnection.handleCommand(PlayerConnection.java:2185) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.PlayerConnection.c(PlayerConnection.java:2000) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.PlayerConnection.a(PlayerConnection.java:1953) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.PacketPlayInChat.a(PacketPlayInChat.java:49) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.PacketPlayInChat.a(PacketPlayInChat.java:7) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.PlayerConnectionUtils.lambda$ensureMainThread$1(PlayerConnectionUtils.java:35) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.TickTask.run(SourceFile:18) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.executeTask(IAsyncTaskHandler.java:136) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandlerReentrant.executeTask(SourceFile:23) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.executeNext(IAsyncTaskHandler.java:109) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.bb(MinecraftServer.java:1271) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.executeNext(MinecraftServer.java:1264) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.IAsyncTaskHandler.awaitTasks(IAsyncTaskHandler.java:119) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.sleepForTick(MinecraftServer.java:1225) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1139) ~[patched_1.16.5.jar:git-Paper-794]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:291) ~[patched_1.16.5.jar:git-Paper-794]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+Caused by: java.lang.NullPointerException
+	at net.shortninja.staffplus.server.data.Load.loadWarnings(Load.java:120) ~[?:?]
+	at net.shortninja.staffplus.server.data.Load.loadUser(Load.java:72) ~[?:?]
+	at net.shortninja.staffplus.server.data.Load.<init>(Load.java:39) ~[?:?]
+	at net.shortninja.staffplus.player.attribute.mode.ModeCoordinator.addMode(ModeCoordinator.java:63) ~[?:?]
+	at net.shortninja.staffplus.server.command.cmd.mode.ModeCmd.toggleMode(ModeCmd.java:60) ~[?:?]
+	at net.shortninja.staffplus.server.command.cmd.mode.ModeCmd.execute(ModeCmd.java:51) ~[?:?]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:159) ~[patched_1.16.5.jar:git-Paper-794]
+	... 18 more
+[04:49:36] [Server thread/INFO]: Pato_con_flow issued server command: /plugins

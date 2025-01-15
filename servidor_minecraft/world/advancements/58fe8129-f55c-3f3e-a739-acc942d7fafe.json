@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-01-15 04:49:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2025-01-14 18:35:48 +0000"
@@ -179,6 +185,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2025-01-15 04:50:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2025-01-14 19:23:24 +0000"
@@ -302,6 +314,12 @@
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-01-15 04:37:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_reeds": "2025-01-15 04:49:22 +0000"
     },
     "done": true
   },
