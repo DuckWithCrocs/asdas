@@ -302,6 +302,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_mutton": "2025-01-14 18:29:47 +0000",
+      "apple": "2025-01-15 07:07:36 +0000",
       "cookie": "2025-01-15 06:29:50 +0000"
     },
     "done": false
@@ -1521,6 +1522,12 @@
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2025-01-14 19:48:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-01-15 07:11:50 +0000"
     },
     "done": true
   },
