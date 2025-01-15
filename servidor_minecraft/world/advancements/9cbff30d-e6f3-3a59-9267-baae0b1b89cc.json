@@ -341,6 +341,7 @@
       "cooked_mutton": "2025-01-13 21:09:16 +0000",
       "cooked_beef": "2025-01-13 21:13:04 +0000",
       "beef": "2025-01-13 23:28:13 +0000",
+      "golden_carrot": "2025-01-15 05:52:14 +0000",
       "cooked_chicken": "2025-01-13 21:51:24 +0000"
     },
     "done": false
@@ -468,6 +469,12 @@
   "minecraft:recipes/building_blocks/glass": {
     "criteria": {
       "has_sand": "2025-01-14 23:18:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
+    "criteria": {
+      "has_white_terracotta": "2025-01-15 05:47:12 +0000"
     },
     "done": true
   },
