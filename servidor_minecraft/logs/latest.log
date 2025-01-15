@@ -116,3 +116,5 @@
 [00:28:28] [Server thread/INFO]: Pato_con_flow joined the game
 [00:28:28] [Server thread/INFO]: Pato_con_flow[/127.67.59.64:37217] logged in with entity id 168 at ([world]1400.2086151512717, 63.0, 1023.7683828421318)
 [00:33:56] [Server thread/INFO]: Villager EntityVillager['Librarian'/172, uuid='f20840a1-53a7-414b-b324-a7217652a621', l='ServerLevel[world]', x=1400.30, y=63.00, z=1021.31, cx=87, cz=63, tl=365129, v=true, d=false] died, message: 'Librarian was slain by Pato_con_flow'
+[00:51:35] [Server thread/INFO]: Pato_con_flow lost connection: Timed out
+[00:51:35] [Server thread/INFO]: Pato_con_flow left the game
