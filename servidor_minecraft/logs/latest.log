@@ -585,3 +585,8 @@ Caused by: java.lang.NullPointerException
 [05:16:18] [Server thread/INFO]: Zv_Belphegor[/127.67.59.64:46499] logged in with entity id 7696 at ([world]1363.4706674025524, 32.0, 1049.180385730529)
 [05:25:53] [Server thread/INFO]: Villager EntityVillager['Villager'/288, uuid='e829a1d2-f83f-4dd8-8844-0ad4c3b3af15', l='ServerLevel[world]', x=1402.49, y=63.00, z=1021.49, cx=87, cz=63, tl=164722, v=true, d=false] died, message: 'Villager was slain by Pato_con_flow'
 [05:34:23] [Server thread/INFO]: Pato_con_flow has made the advancement [Best Friends Forever]
+[06:02:05] [Server thread/INFO]: Pato_con_flow lost connection: Disconnected
+[06:02:05] [Server thread/INFO]: Pato_con_flow left the game
+[06:02:22] [User Authenticator #6/INFO]: UUID of player Pato_con_flow is 9cbff30d-e6f3-3a59-9267-baae0b1b89cc
+[06:02:23] [Server thread/INFO]: Pato_con_flow joined the game
+[06:02:23] [Server thread/INFO]: Pato_con_flow[/127.67.59.64:60589] logged in with entity id 14937 at ([world]1384.2204074684958, 55.0, 1010.3000000119209)
