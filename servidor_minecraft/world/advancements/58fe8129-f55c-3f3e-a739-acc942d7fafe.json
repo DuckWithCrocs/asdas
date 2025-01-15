@@ -530,6 +530,14 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:sheep": "2025-01-15 08:50:58 +0000",
+      "minecraft:cow": "2025-01-15 08:51:07 +0000",
+      "minecraft:chicken": "2025-01-15 08:51:19 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-01-14 19:10:30 +0000"
@@ -1652,6 +1660,12 @@
   "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-01-15 06:06:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-01-15 08:50:58 +0000"
     },
     "done": true
   },

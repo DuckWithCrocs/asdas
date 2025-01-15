@@ -603,3 +603,6 @@ Caused by: java.lang.NullPointerException
 [06:27:32] [Server thread/INFO]: Pato_con_flow was slain by Zombie Villager
 [06:28:31] [Server thread/INFO]: Pato_con_flow lost connection: Disconnected
 [06:28:31] [Server thread/INFO]: Pato_con_flow left the game
+[08:50:58] [Server thread/INFO]: Zv_Belphegor has made the advancement [The Parrots and the Bats]
+[08:54:31] [Server thread/INFO]: Zv_Belphegor lost connection: Disconnected
+[08:54:31] [Server thread/INFO]: Zv_Belphegor left the game
