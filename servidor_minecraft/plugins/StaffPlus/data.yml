@@ -20,3 +20,13 @@
   - XRAY;true
   - MENTION;true
   - NAME_CHANGE;true
+58fe8129-f55c-3f3e-a739-acc942d7fafe:
+  name: Zv_Belphegor
+  glass-color: 0
+  reports: []
+  warnings: []
+  notes: []
+  alert-options:
+  - XRAY;true
+  - MENTION;true
+  - NAME_CHANGE;true
