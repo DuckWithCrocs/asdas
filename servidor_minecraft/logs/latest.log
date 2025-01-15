@@ -366,3 +366,4 @@ Caused by: java.lang.NullPointerException
 	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:159) ~[patched_1.16.5.jar:git-Paper-794]
 	... 18 more
 [04:34:59] [Server thread/INFO]: Zv_Belphegor has made the advancement [A Seedy Place]
+[04:38:21] [Async Chat Thread - #0/INFO]: <Zv_Belphegor> zz
