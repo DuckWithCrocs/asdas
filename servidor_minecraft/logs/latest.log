@@ -583,3 +583,5 @@ Caused by: java.lang.NullPointerException
 [05:16:18] [User Authenticator #5/INFO]: UUID of player Zv_Belphegor is 58fe8129-f55c-3f3e-a739-acc942d7fafe
 [05:16:18] [Server thread/INFO]: Zv_Belphegor joined the game
 [05:16:18] [Server thread/INFO]: Zv_Belphegor[/127.67.59.64:46499] logged in with entity id 7696 at ([world]1363.4706674025524, 32.0, 1049.180385730529)
+[05:25:53] [Server thread/INFO]: Villager EntityVillager['Villager'/288, uuid='e829a1d2-f83f-4dd8-8844-0ad4c3b3af15', l='ServerLevel[world]', x=1402.49, y=63.00, z=1021.49, cx=87, cz=63, tl=164722, v=true, d=false] died, message: 'Villager was slain by Pato_con_flow'
+[05:34:23] [Server thread/INFO]: Pato_con_flow has made the advancement [Best Friends Forever]
