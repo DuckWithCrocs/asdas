@@ -600,3 +600,6 @@ Caused by: java.lang.NullPointerException
 [06:25:46] [User Authenticator #8/INFO]: UUID of player Pato_con_flow is 9cbff30d-e6f3-3a59-9267-baae0b1b89cc
 [06:25:46] [Server thread/INFO]: Pato_con_flow joined the game
 [06:25:46] [Server thread/INFO]: Pato_con_flow[/127.67.59.64:47731] logged in with entity id 18157 at ([world]1478.2953529615986, 27.0, 1021.7990622307265)
+[06:27:32] [Server thread/INFO]: Pato_con_flow was slain by Zombie Villager
+[06:28:31] [Server thread/INFO]: Pato_con_flow lost connection: Disconnected
+[06:28:31] [Server thread/INFO]: Pato_con_flow left the game
