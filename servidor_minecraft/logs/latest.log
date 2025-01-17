@@ -116,3 +116,12 @@
 [20:52:11] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mDo you have issues? Read our troubleshooting guide: [33;1mhttps://skinsrestorer.net/docs/troubleshooting[0;39m
 [20:52:11] [Craft Scheduler Thread - 2/INFO]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer? Consider donating: [33;1mhttps://skinsrestorer.net/donate[0;39m
 [20:52:11] [Craft Scheduler Thread - 6/INFO]: [StaffPlus] You are using the latest version thanks
+[21:24:30] [User Authenticator #1/INFO]: UUID of player CAMEXS is 6a5aa9b0-9db8-3f65-ac39-9269c9e59fb3
+[21:24:30] [Server thread/INFO]: CAMEXS joined the game
+[21:24:30] [Server thread/INFO]: CAMEXS[/127.74.163.155:39095] logged in with entity id 173 at ([world]1401.5579755966764, 66.0, 1030.6493387075993)
+[21:24:45] [Server thread/WARN]: CAMEXS was kicked for floating too long!
+[21:24:45] [Server thread/INFO]: CAMEXS lost connection: Flying is not enabled on this server
+[21:24:45] [Server thread/INFO]: CAMEXS left the game
+[21:25:00] [User Authenticator #1/INFO]: UUID of player CAMEXS is 6a5aa9b0-9db8-3f65-ac39-9269c9e59fb3
+[21:25:01] [Server thread/INFO]: CAMEXS joined the game
+[21:25:01] [Server thread/INFO]: CAMEXS[/127.74.163.155:38229] logged in with entity id 391 at ([world]1401.5579755966764, 65.34829116583738, 1030.6493387075993)
