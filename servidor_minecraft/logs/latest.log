@@ -119,3 +119,44 @@
 [21:39:47] [Server thread/INFO]: Jotadream18 joined the game
 [21:39:47] [Server thread/INFO]: Jotadream18[/127.193.87.50:45457] logged in with entity id 172 at ([world]-3238.5, 64.0, 528.5)
 [21:46:50] [Server thread/INFO]: Jotadream18 has made the advancement [What a Deal!]
+[21:55:41] [User Authenticator #2/INFO]: UUID of player CAMEXS is 6a5aa9b0-9db8-3f65-ac39-9269c9e59fb3
+[21:55:41] [Server thread/INFO]: CAMEXS joined the game
+[21:55:41] [Server thread/INFO]: CAMEXS[/127.74.163.155:38103] logged in with entity id 3380 at ([world]1404.8710523496152, 64.0, 1043.677903304025)
+[21:56:42] [Async Chat Thread - #0/INFO]: <CAMEXS> zzz
+[21:56:52] [Async Chat Thread - #0/INFO]: <CAMEXS> dormiii
+[21:57:18] [Async Chat Thread - #0/INFO]: <CAMEXS> zzz
+[21:57:32] [Async Chat Thread - #0/INFO]: <Jotadream18> xddd
+[21:57:51] [Async Chat Thread - #0/INFO]: <CAMEXS> duerme
+[21:57:54] [Async Chat Thread - #0/INFO]: <CAMEXS> pls
+[21:57:58] [Async Chat Thread - #0/INFO]: <Jotadream18> no tengo cama
+[21:58:00] [Server thread/INFO]: Jotadream18 lost connection: Disconnected
+[21:58:00] [Server thread/INFO]: Jotadream18 left the game
+[21:58:19] [User Authenticator #3/INFO]: UUID of player Jotadream18 is 294b1528-ef6e-38d5-9794-dabc61f71d99
+[21:58:19] [Server thread/INFO]: Jotadream18 joined the game
+[21:58:19] [Server thread/INFO]: Jotadream18[/127.193.87.50:50121] logged in with entity id 4133 at ([world]-3753.774395464487, 43.0, 893.0235572213292)
+[21:59:27] [Async Chat Thread - #1/INFO]: <CAMEXS> alv
+[21:59:33] [Async Chat Thread - #1/INFO]: <CAMEXS> de donde tamto
+[21:59:40] [Async Chat Thread - #1/INFO]: <CAMEXS> xray!!!!!
+[21:59:46] [Async Chat Thread - #1/INFO]: <Jotadream18> ? xd
+[22:02:54] [Server thread/INFO]: Jotadream18 has made the advancement [Diamonds!]
+[22:02:58] [Async Chat Thread - #2/INFO]: <CAMEXS> gg
+[22:04:07] [Server thread/INFO]: CAMEXS issued server command: /gamemode spectator
+[22:04:07] [Server thread/INFO]: [CAMEXS: Set own game mode to Spectator Mode]
+[22:04:22] [Server thread/INFO]: CAMEXS issued server command: /tp CAMEXS Jotadream18
+[22:04:22] [Server thread/INFO]: [CAMEXS: Teleported CAMEXS to Jotadream18]
+[22:07:47] [Server thread/INFO]: Jotadream18 has made the advancement [Ice Bucket Challenge]
+[22:07:54] [Server thread/INFO]: CAMEXS issued server command: /tp CAMEXS -1300 100 1000
+[22:07:54] [Server thread/INFO]: [CAMEXS: Teleported CAMEXS to -1299.5, 100.0, 1000.5]
+[22:08:41] [Server thread/INFO]: CAMEXS issued server command: /tp CAMEXS 1300 100 -1000
+[22:08:41] [Server thread/INFO]: [CAMEXS: Teleported CAMEXS to 1300.5, 100.0, -999.5]
+[22:09:21] [Server thread/INFO]: CAMEXS issued server command: /tp CAMEXS 1300 100 1000
+[22:09:21] [Server thread/INFO]: [CAMEXS: Teleported CAMEXS to 1300.5, 100.0, 1000.5]
+[22:09:40] [Server thread/INFO]: CAMEXS issued server command: /gamemode survival
+[22:09:40] [Server thread/INFO]: [CAMEXS: Set own game mode to Survival Mode]
+[22:09:50] [Async Chat Thread - #3/INFO]: <CAMEXS> zzzzz :>
+[22:10:01] [Async Chat Thread - #3/INFO]: <Jotadream18> p
+[22:10:02] [Server thread/INFO]: Jotadream18 lost connection: Disconnected
+[22:10:02] [Server thread/INFO]: Jotadream18 left the game
+[22:10:15] [User Authenticator #4/INFO]: UUID of player Jotadream18 is 294b1528-ef6e-38d5-9794-dabc61f71d99
+[22:10:15] [Server thread/INFO]: Jotadream18 joined the game
+[22:10:15] [Server thread/INFO]: Jotadream18[/127.193.87.50:53741] logged in with entity id 8675 at ([world]-3673.2880816381767, 10.0, 935.0431821627078)
